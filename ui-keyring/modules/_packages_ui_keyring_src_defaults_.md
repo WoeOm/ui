@@ -6,7 +6,6 @@
 
 ### Variables
 
-* [MAX_PASS_LEN](_packages_ui_keyring_src_defaults_.md#const-max_pass_len)
 * [accountRegex](_packages_ui_keyring_src_defaults_.md#const-accountregex)
 * [addressRegex](_packages_ui_keyring_src_defaults_.md#const-addressregex)
 * [contractRegex](_packages_ui_keyring_src_defaults_.md#const-contractregex)
@@ -19,19 +18,11 @@
 
 ## Variables
 
-### `Const` MAX_PASS_LEN
-
-• **MAX_PASS_LEN**: *32* = 32
-
-*Defined in [packages/ui-keyring/src/defaults.ts:11](https://github.com/polkadot-js/ui/blob/0dcbdca/packages/ui-keyring/src/defaults.ts#L11)*
-
-___
-
 ### `Const` accountRegex
 
 • **accountRegex**: *RegExp‹›* = new RegExp(`^${ACCOUNT_PREFIX}0x[0-9a-f]*`, '')
 
-*Defined in [packages/ui-keyring/src/defaults.ts:29](https://github.com/polkadot-js/ui/blob/0dcbdca/packages/ui-keyring/src/defaults.ts#L29)*
+*Defined in [packages/ui-keyring/src/defaults.ts:28](https://github.com/polkadot-js/ui/blob/a3ab735/packages/ui-keyring/src/defaults.ts#L28)*
 
 ___
 
@@ -39,7 +30,7 @@ ___
 
 • **addressRegex**: *RegExp‹›* = new RegExp(`^${ADDRESS_PREFIX}0x[0-9a-f]*`, '')
 
-*Defined in [packages/ui-keyring/src/defaults.ts:31](https://github.com/polkadot-js/ui/blob/0dcbdca/packages/ui-keyring/src/defaults.ts#L31)*
+*Defined in [packages/ui-keyring/src/defaults.ts:30](https://github.com/polkadot-js/ui/blob/a3ab735/packages/ui-keyring/src/defaults.ts#L30)*
 
 ___
 
@@ -47,7 +38,7 @@ ___
 
 • **contractRegex**: *RegExp‹›* = new RegExp(`^${CONTRACT_PREFIX}0x[0-9a-f]*`, '')
 
-*Defined in [packages/ui-keyring/src/defaults.ts:33](https://github.com/polkadot-js/ui/blob/0dcbdca/packages/ui-keyring/src/defaults.ts#L33)*
+*Defined in [packages/ui-keyring/src/defaults.ts:32](https://github.com/polkadot-js/ui/blob/a3ab735/packages/ui-keyring/src/defaults.ts#L32)*
 
 ## Functions
 
@@ -55,7 +46,7 @@ ___
 
 ▸ **accountKey**(`address`: string): *string*
 
-*Defined in [packages/ui-keyring/src/defaults.ts:20](https://github.com/polkadot-js/ui/blob/0dcbdca/packages/ui-keyring/src/defaults.ts#L20)*
+*Defined in [packages/ui-keyring/src/defaults.ts:19](https://github.com/polkadot-js/ui/blob/a3ab735/packages/ui-keyring/src/defaults.ts#L19)*
 
 **Parameters:**
 
@@ -71,7 +62,7 @@ ___
 
 ▸ **addressKey**(`address`: string): *string*
 
-*Defined in [packages/ui-keyring/src/defaults.ts:23](https://github.com/polkadot-js/ui/blob/0dcbdca/packages/ui-keyring/src/defaults.ts#L23)*
+*Defined in [packages/ui-keyring/src/defaults.ts:22](https://github.com/polkadot-js/ui/blob/a3ab735/packages/ui-keyring/src/defaults.ts#L22)*
 
 **Parameters:**
 
@@ -87,7 +78,7 @@ ___
 
 ▸ **contractKey**(`address`: string): *string*
 
-*Defined in [packages/ui-keyring/src/defaults.ts:26](https://github.com/polkadot-js/ui/blob/0dcbdca/packages/ui-keyring/src/defaults.ts#L26)*
+*Defined in [packages/ui-keyring/src/defaults.ts:25](https://github.com/polkadot-js/ui/blob/a3ab735/packages/ui-keyring/src/defaults.ts#L25)*
 
 **Parameters:**
 
