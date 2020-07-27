@@ -32,7 +32,7 @@
   template: `<div v-html="html" />`
 })
 
-*Defined in [packages/vue-identicon/src/icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/4126dff/packages/vue-identicon/src/icons/Beachball.ts#L16)*
+*Defined in [packages/vue-identicon/src/icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/5bd2b3c/packages/vue-identicon/src/icons/Beachball.ts#L16)*
 
 **`name`** Beachball
 
