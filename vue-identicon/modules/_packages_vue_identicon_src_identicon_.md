@@ -12,7 +12,7 @@
 
 ### `Const` Identicon
 
-• **Identicon**: *VueConstructor‹Data & object & object & Vue‹››* = Vue.extend({
+• **Identicon**: *ExtendedVue‹Vue‹›, Data, object, unknown, Record‹"size" | "isAlternative" | "prefix" | "theme" | "value", any››* = Vue.extend({
   components: {
     Beachball,
     Empty,
@@ -68,7 +68,7 @@
   }
 })
 
-*Defined in [packages/vue-identicon/src/Identicon.ts:48](https://github.com/polkadot-js/ui/blob/d4575f7/packages/vue-identicon/src/Identicon.ts#L48)*
+*Defined in [packages/vue-identicon/src/Identicon.ts:48](https://github.com/polkadot-js/ui/blob/fdc310b/packages/vue-identicon/src/Identicon.ts#L48)*
 
 **`name`** Identicon
 

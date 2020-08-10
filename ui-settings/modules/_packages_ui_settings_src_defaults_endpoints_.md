@@ -19,22 +19,12 @@
   value: 'ws://127.0.0.1:9944/'
 }]
 
-*Defined in [packages/ui-settings/src/defaults/endpoints.ts:7](https://github.com/polkadot-js/ui/blob/d4575f7/packages/ui-settings/src/defaults/endpoints.ts#L7)*
+*Defined in [packages/ui-settings/src/defaults/endpoints.ts:7](https://github.com/polkadot-js/ui/blob/fdc310b/packages/ui-settings/src/defaults/endpoints.ts#L7)*
 
 ___
 
 ### `Const` ENDPOINT_DEFAULT
 
-• **ENDPOINT_DEFAULT**: *object* = ENDPOINTS[0]
+• **ENDPOINT_DEFAULT**: *[Option](_packages_ui_settings_src_types_.md#option)* = ENDPOINTS[0]
 
-*Defined in [packages/ui-settings/src/defaults/endpoints.ts:13](https://github.com/polkadot-js/ui/blob/d4575f7/packages/ui-settings/src/defaults/endpoints.ts#L13)*
-
-#### Type declaration:
-
-* **disabled**? : *undefined | false | true*
-
-* **info**: *string*
-
-* **text**: *string*
-
-* **value**: *string | number*
+*Defined in [packages/ui-settings/src/defaults/endpoints.ts:13](https://github.com/polkadot-js/ui/blob/fdc310b/packages/ui-settings/src/defaults/endpoints.ts#L13)*

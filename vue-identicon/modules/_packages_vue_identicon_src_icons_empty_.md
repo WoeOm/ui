@@ -12,7 +12,7 @@
 
 ### `Const` Empty
 
-• **Empty**: *VueConstructor‹object & Vue‹››* = Vue.extend({
+• **Empty**: *ExtendedVue‹Vue‹›, unknown, unknown, unknown, Record‹"size", any››* = Vue.extend({
   props: ['size'],
   template: `
     <svg :height="size" :width="size" viewBox="0 0 64 64">
@@ -21,7 +21,7 @@
   `
 })
 
-*Defined in [packages/vue-identicon/src/icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/d4575f7/packages/vue-identicon/src/icons/Empty.ts#L11)*
+*Defined in [packages/vue-identicon/src/icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/fdc310b/packages/vue-identicon/src/icons/Empty.ts#L11)*
 
 **`name`** Empty
 

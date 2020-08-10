@@ -12,7 +12,7 @@
 
 ### `Const` Polkadot
 
-• **Polkadot**: *VueConstructor‹Data & object & object & Vue‹››* = Vue.extend({
+• **Polkadot**: *ExtendedVue‹Vue‹›, Data, object, unknown, Record‹"address" | "size" | "isAlternative", any››* = Vue.extend({
   created: function (): void {
     this.createSvgHtml();
   },
@@ -36,7 +36,7 @@
   template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [packages/vue-identicon/src/icons/Polkadot.ts:21](https://github.com/polkadot-js/ui/blob/d4575f7/packages/vue-identicon/src/icons/Polkadot.ts#L21)*
+*Defined in [packages/vue-identicon/src/icons/Polkadot.ts:21](https://github.com/polkadot-js/ui/blob/fdc310b/packages/vue-identicon/src/icons/Polkadot.ts#L21)*
 
 **`name`** Polkadot
 

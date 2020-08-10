@@ -12,7 +12,7 @@
 
 ### `Const` Beachball
 
-• **Beachball**: *VueConstructor‹Data & object & object & Vue‹››* = Vue.extend({
+• **Beachball**: *ExtendedVue‹Vue‹›, Data, object, unknown, Record‹"address" | "size", any››* = Vue.extend({
   created: function (): void {
     this.createHtml();
   },
@@ -32,7 +32,7 @@
   template: `<div v-html="html" />`
 })
 
-*Defined in [packages/vue-identicon/src/icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/d4575f7/packages/vue-identicon/src/icons/Beachball.ts#L16)*
+*Defined in [packages/vue-identicon/src/icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/fdc310b/packages/vue-identicon/src/icons/Beachball.ts#L16)*
 
 **`name`** Beachball
 

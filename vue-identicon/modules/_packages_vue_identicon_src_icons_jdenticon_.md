@@ -12,7 +12,7 @@
 
 ### `Const` Jdenticon
 
-• **Jdenticon**: *VueConstructor‹Data & object & object & Vue‹››* = Vue.extend({
+• **Jdenticon**: *ExtendedVue‹Vue‹›, Data, object, unknown, Record‹"size" | "publicKey", any››* = Vue.extend({
   created: function (): void {
     this.createSvgHtml();
   },
@@ -32,7 +32,7 @@
   template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [packages/vue-identicon/src/icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/d4575f7/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
+*Defined in [packages/vue-identicon/src/icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/fdc310b/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
 
 **`name`** Jdenticon
 
