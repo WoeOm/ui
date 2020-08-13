@@ -19,7 +19,7 @@
 
 Ƭ **Option**: *object*
 
-*Defined in [packages/ui-settings/src/types.ts:5](https://github.com/polkadot-js/ui/blob/fdc310b/packages/ui-settings/src/types.ts#L5)*
+*Defined in [packages/ui-settings/src/types.ts:5](https://github.com/polkadot-js/ui/blob/9768383b/packages/ui-settings/src/types.ts#L5)*
 
 #### Type declaration:
 
