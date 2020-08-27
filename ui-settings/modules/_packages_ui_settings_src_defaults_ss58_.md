@@ -45,10 +45,15 @@
     info: 'kulupu',
     text: 'Kulupu (live)',
     value: 16
+  },
+  {
+    info: 'subsocial',
+    text: 'Subsocial (live)',
+    value: 28
   }
 ]
 
-*Defined in [packages/ui-settings/src/defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/ccfa7307/packages/ui-settings/src/defaults/ss58.ts#L9)*
+*Defined in [packages/ui-settings/src/defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/3610d1b9/packages/ui-settings/src/defaults/ss58.ts#L9)*
 
 ___
 
@@ -56,4 +61,4 @@ ___
 
 • **PREFIX_DEFAULT**: *-1* = -1
 
-*Defined in [packages/ui-settings/src/defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/ccfa7307/packages/ui-settings/src/defaults/ss58.ts#L7)*
+*Defined in [packages/ui-settings/src/defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/3610d1b9/packages/ui-settings/src/defaults/ss58.ts#L7)*
