@@ -1,10 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/reactnative-identicon/src/Identicon"](../modules/_packages_reactnative_identicon_src_identicon_.md) › [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md)
 
-# Class: IdentityIcon ‹**SS**›
-
-## Type parameters
-
-▪ **SS**
+# Class: IdentityIcon
 
 ## Hierarchy
 
@@ -44,7 +40,7 @@
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[UNSAFE_componentWillMount](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-unsafe_componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:702
+Defined in node_modules/@types/react/index.d.ts:712
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -70,7 +66,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[UNSAFE_componentWillReceiveProps](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-unsafe_componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:734
+Defined in node_modules/@types/react/index.d.ts:744
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -106,7 +102,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[UNSAFE_componentWillUpdate](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-unsafe_componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:762
+Defined in node_modules/@types/react/index.d.ts:772
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -141,7 +137,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[componentDidCatch](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-componentdidcatch)*
 
-Defined in node_modules/@types/react/index.d.ts:631
+Defined in node_modules/@types/react/index.d.ts:641
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -163,7 +159,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[componentDidMount](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-componentdidmount)*
 
-Defined in node_modules/@types/react/index.d.ts:610
+Defined in node_modules/@types/react/index.d.ts:620
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -177,7 +173,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[componentDidUpdate](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-componentdidupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:673
+Defined in node_modules/@types/react/index.d.ts:683
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -201,7 +197,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[componentWillMount](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:688
+Defined in node_modules/@types/react/index.d.ts:698
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -225,7 +221,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[componentWillReceiveProps](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:717
+Defined in node_modules/@types/react/index.d.ts:727
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -259,7 +255,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[componentWillUnmount](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-componentwillunmount)*
 
-Defined in node_modules/@types/react/index.d.ts:626
+Defined in node_modules/@types/react/index.d.ts:636
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -274,7 +270,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[componentWillUpdate](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:747
+Defined in node_modules/@types/react/index.d.ts:757
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -303,11 +299,11 @@ ___
 
 ### `Optional` getSnapshotBeforeUpdate
 
-▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›): *SS | null*
+▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›): *any | null*
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[getSnapshotBeforeUpdate](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-getsnapshotbeforeupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:667
+Defined in node_modules/@types/react/index.d.ts:677
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -323,7 +319,7 @@ Name | Type |
 `prevProps` | Readonly‹Props› |
 `prevState` | Readonly‹State› |
 
-**Returns:** *SS | null*
+**Returns:** *any | null*
 
 ___
 
@@ -331,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/0bffc7af/packages/reactnative-identicon/src/Identicon.tsx#L65)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/44bf1f42/packages/reactnative-identicon/src/Identicon.tsx#L65)*
 
 **Returns:** *React.ReactNode*
 
@@ -343,7 +339,7 @@ ___
 
 *Inherited from [IdentityIcon](_packages_reactnative_identicon_src_identicon_.identityicon.md).[shouldComponentUpdate](_packages_reactnative_identicon_src_identicon_.identityicon.md#optional-shouldcomponentupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:621
+Defined in node_modules/@types/react/index.d.ts:631
 
 Called to determine whether the change in props and state should trigger a re-render.
 
@@ -370,7 +366,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:47](https://github.com/polkadot-js/ui/blob/0bffc7af/packages/reactnative-identicon/src/Identicon.tsx#L47)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:47](https://github.com/polkadot-js/ui/blob/44bf1f42/packages/reactnative-identicon/src/Identicon.tsx#L47)*
 
 **Parameters:**
 
@@ -391,7 +387,7 @@ ___
 
 ▸ **setDefaultPrefix**(`prefix`: Prefix): *void*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:43](https://github.com/polkadot-js/ui/blob/0bffc7af/packages/reactnative-identicon/src/Identicon.tsx#L43)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:43](https://github.com/polkadot-js/ui/blob/44bf1f42/packages/reactnative-identicon/src/Identicon.tsx#L43)*
 
 **Parameters:**
 
@@ -407,16 +403,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:36](https://github.com/polkadot-js/ui/blob/0bffc7af/packages/reactnative-identicon/src/Identicon.tsx#L36)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:36](https://github.com/polkadot-js/ui/blob/44bf1f42/packages/reactnative-identicon/src/Identicon.tsx#L36)*
 
 ###  address
 
 • **address**: *string* = ""
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:37](https://github.com/polkadot-js/ui/blob/0bffc7af/packages/reactnative-identicon/src/Identicon.tsx#L37)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:37](https://github.com/polkadot-js/ui/blob/44bf1f42/packages/reactnative-identicon/src/Identicon.tsx#L37)*
 
 ###  publicKey
 
 • **publicKey**: *string* = "0x"
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:38](https://github.com/polkadot-js/ui/blob/0bffc7af/packages/reactnative-identicon/src/Identicon.tsx#L38)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:38](https://github.com/polkadot-js/ui/blob/44bf1f42/packages/reactnative-identicon/src/Identicon.tsx#L38)*
