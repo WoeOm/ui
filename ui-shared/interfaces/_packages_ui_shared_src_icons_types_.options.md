@@ -19,7 +19,7 @@
 
 • **isAlternative**: *boolean*
 
-*Defined in [packages/ui-shared/src/icons/types.ts:13](https://github.com/polkadot-js/ui/blob/55f3ca65/packages/ui-shared/src/icons/types.ts#L13)*
+*Defined in [packages/ui-shared/src/icons/types.ts:13](https://github.com/polkadot-js/ui/blob/54a325f3/packages/ui-shared/src/icons/types.ts#L13)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **size**? : *undefined | number*
 
-*Defined in [packages/ui-shared/src/icons/types.ts:14](https://github.com/polkadot-js/ui/blob/55f3ca65/packages/ui-shared/src/icons/types.ts#L14)*
+*Defined in [packages/ui-shared/src/icons/types.ts:14](https://github.com/polkadot-js/ui/blob/54a325f3/packages/ui-shared/src/icons/types.ts#L14)*
