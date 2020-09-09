@@ -53,7 +53,7 @@
   }
 ]
 
-*Defined in [packages/ui-settings/src/defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/54a325f3/packages/ui-settings/src/defaults/ss58.ts#L9)*
+*Defined in [packages/ui-settings/src/defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/e24cf096/packages/ui-settings/src/defaults/ss58.ts#L9)*
 
 ___
 
@@ -61,4 +61,4 @@ ___
 
 • **PREFIX_DEFAULT**: *-1* = -1
 
-*Defined in [packages/ui-settings/src/defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/54a325f3/packages/ui-settings/src/defaults/ss58.ts#L7)*
+*Defined in [packages/ui-settings/src/defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/e24cf096/packages/ui-settings/src/defaults/ss58.ts#L7)*
