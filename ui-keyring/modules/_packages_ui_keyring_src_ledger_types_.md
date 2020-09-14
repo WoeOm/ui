@@ -6,6 +6,7 @@
 
 ### Interfaces
 
+* [AccountOptions](../interfaces/_packages_ui_keyring_src_ledger_types_.accountoptions.md)
 * [LedgerAddress](../interfaces/_packages_ui_keyring_src_ledger_types_.ledgeraddress.md)
 * [LedgerSignature](../interfaces/_packages_ui_keyring_src_ledger_types_.ledgersignature.md)
 * [LedgerVersion](../interfaces/_packages_ui_keyring_src_ledger_types_.ledgerversion.md)
@@ -21,4 +22,4 @@
 
 Ƭ **LedgerTypes**: *"hid" | "u2f" | "webusb"*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:7](https://github.com/polkadot-js/ui/blob/0b63b9ea/packages/ui-keyring/src/ledger/types.ts#L7)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:7](https://github.com/polkadot-js/ui/blob/db6948d6/packages/ui-keyring/src/ledger/types.ts#L7)*
