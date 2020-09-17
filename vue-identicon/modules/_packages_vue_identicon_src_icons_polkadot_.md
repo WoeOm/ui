@@ -36,7 +36,7 @@
   template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [packages/vue-identicon/src/icons/Polkadot.ts:21](https://github.com/polkadot-js/ui/blob/8f61882b/packages/vue-identicon/src/icons/Polkadot.ts#L21)*
+*Defined in [packages/vue-identicon/src/icons/Polkadot.ts:21](https://github.com/polkadot-js/ui/blob/0288421c/packages/vue-identicon/src/icons/Polkadot.ts#L21)*
 
 **`name`** Polkadot
 
