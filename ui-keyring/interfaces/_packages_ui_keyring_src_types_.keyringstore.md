@@ -26,7 +26,7 @@
 
 • **all**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:35](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/types.ts#L35)*
+*Defined in [packages/ui-keyring/src/types.ts:35](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-keyring/src/types.ts#L35)*
 
 #### Type declaration:
 
@@ -51,7 +51,7 @@ ___
 
 • **get**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:36](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/types.ts#L36)*
+*Defined in [packages/ui-keyring/src/types.ts:36](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-keyring/src/types.ts#L36)*
 
 #### Type declaration:
 
@@ -77,7 +77,7 @@ ___
 
 • **remove**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:37](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/types.ts#L37)*
+*Defined in [packages/ui-keyring/src/types.ts:37](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-keyring/src/types.ts#L37)*
 
 #### Type declaration:
 
@@ -96,7 +96,7 @@ ___
 
 • **set**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:38](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/types.ts#L38)*
+*Defined in [packages/ui-keyring/src/types.ts:38](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-keyring/src/types.ts#L38)*
 
 #### Type declaration:
 
