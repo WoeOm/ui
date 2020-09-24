@@ -20,7 +20,7 @@
 
 • **add**: *function*
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:19](https://github.com/polkadot-js/ui/blob/0288421c/packages/ui-keyring/src/observable/types.ts#L19)*
+*Defined in [packages/ui-keyring/src/observable/types.ts:18](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/observable/types.ts#L18)*
 
 #### Type declaration:
 
@@ -40,7 +40,7 @@ ___
 
 • **remove**: *function*
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:20](https://github.com/polkadot-js/ui/blob/0288421c/packages/ui-keyring/src/observable/types.ts#L20)*
+*Defined in [packages/ui-keyring/src/observable/types.ts:19](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/observable/types.ts#L19)*
 
 #### Type declaration:
 
@@ -59,4 +59,4 @@ ___
 
 • **subject**: *BehaviorSubject‹[SubjectInfo](_packages_ui_keyring_src_observable_types_.subjectinfo.md)›*
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:21](https://github.com/polkadot-js/ui/blob/0288421c/packages/ui-keyring/src/observable/types.ts#L21)*
+*Defined in [packages/ui-keyring/src/observable/types.ts:20](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/observable/types.ts#L20)*

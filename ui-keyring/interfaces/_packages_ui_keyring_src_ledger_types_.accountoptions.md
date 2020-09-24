@@ -20,7 +20,7 @@
 
 • **account**: *number*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/0288421c/packages/ui-keyring/src/ledger/types.ts#L10)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:9](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/ledger/types.ts#L9)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **addressIndex**: *number*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/0288421c/packages/ui-keyring/src/ledger/types.ts#L11)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/ledger/types.ts#L10)*
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 • **change**: *number*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:12](https://github.com/polkadot-js/ui/blob/0288421c/packages/ui-keyring/src/ledger/types.ts#L12)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/262b8ad7/packages/ui-keyring/src/ledger/types.ts#L11)*
