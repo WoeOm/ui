@@ -18,7 +18,7 @@
   '#ffe119', '#4363d8', '#f58231', '#fabebe', '#e6beff', '#800000', '#000075', '#a9a9a9', '#ffffff', '#000000'
 ]
 
-*Defined in [packages/ui-shared/src/icons/beachball/defaults.ts:5](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-shared/src/icons/beachball/defaults.ts#L5)*
+*Defined in [packages/ui-shared/src/icons/beachball/defaults.ts:5](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/beachball/defaults.ts#L5)*
 
 ___
 
@@ -26,4 +26,4 @@ ___
 
 • **SHAPE_COUNT**: *5* = 5
 
-*Defined in [packages/ui-shared/src/icons/beachball/defaults.ts:10](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-shared/src/icons/beachball/defaults.ts#L10)*
+*Defined in [packages/ui-shared/src/icons/beachball/defaults.ts:10](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/beachball/defaults.ts#L10)*

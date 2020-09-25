@@ -14,7 +14,7 @@
 
 ▸ **generate**(`address`: string, `__namedParameters`: object): *[Circle](../interfaces/_packages_ui_shared_src_icons_types_.circle.md)[]*
 
-*Defined in [packages/ui-shared/src/icons/polkadot.ts:133](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-shared/src/icons/polkadot.ts#L133)*
+*Defined in [packages/ui-shared/src/icons/polkadot.ts:133](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/polkadot.ts#L133)*
 
 **`description`** Generate a array of the circles that make up an identicon
 

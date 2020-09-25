@@ -31,7 +31,7 @@
   }
 ]
 
-*Defined in [packages/ui-settings/src/defaults/crypto.ts:6](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-settings/src/defaults/crypto.ts#L6)*
+*Defined in [packages/ui-settings/src/defaults/crypto.ts:6](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/crypto.ts#L6)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
   }
 ]
 
-*Defined in [packages/ui-settings/src/defaults/crypto.ts:24](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-settings/src/defaults/crypto.ts#L24)*
+*Defined in [packages/ui-settings/src/defaults/crypto.ts:24](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/crypto.ts#L24)*

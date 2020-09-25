@@ -22,7 +22,7 @@
 
 • **type**: *[LedgerTypes](../modules/_packages_ui_keyring_src_ledger_types_.md#ledgertypes)*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:31](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-keyring/src/ledger/types.ts#L31)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:31](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L31)*
 
 ## Methods
 
@@ -30,6 +30,6 @@
 
 ▸ **create**(): *Promise‹Transport›*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:30](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-keyring/src/ledger/types.ts#L30)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:30](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L30)*
 
 **Returns:** *Promise‹Transport›*

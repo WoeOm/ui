@@ -19,7 +19,7 @@
   value: 'ws://127.0.0.1:9944/'
 }]
 
-*Defined in [packages/ui-settings/src/defaults/endpoints.ts:6](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-settings/src/defaults/endpoints.ts#L6)*
+*Defined in [packages/ui-settings/src/defaults/endpoints.ts:6](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/endpoints.ts#L6)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **ENDPOINT_DEFAULT**: *[Option](_packages_ui_settings_src_types_.md#option)* = ENDPOINTS[0]
 
-*Defined in [packages/ui-settings/src/defaults/endpoints.ts:12](https://github.com/polkadot-js/ui/blob/723641ac/packages/ui-settings/src/defaults/endpoints.ts#L12)*
+*Defined in [packages/ui-settings/src/defaults/endpoints.ts:12](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/endpoints.ts#L12)*
