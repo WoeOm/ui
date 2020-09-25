@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/defaults/crypto"](_packages_ui_settings_src_defaults_crypto_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-settings/src/defaults/crypto"
 
 # Module: "packages/ui-settings/src/defaults/crypto"
 
@@ -6,43 +8,21 @@
 
 ### Variables
 
-* [CRYPTOS](_packages_ui_settings_src_defaults_crypto_.md#const-cryptos)
-* [CRYPTOS_ETH](_packages_ui_settings_src_defaults_crypto_.md#const-cryptos_eth)
+* [CRYPTOS](_packages_ui_settings_src_defaults_crypto_.md#cryptos)
+* [CRYPTOS\_ETH](_packages_ui_settings_src_defaults_crypto_.md#cryptos_eth)
 
 ## Variables
 
-### `Const` CRYPTOS
+### CRYPTOS
 
-• **CRYPTOS**: *[Option](_packages_ui_settings_src_types_.md#option)[]* = [
-  {
-    info: 'sr25519',
-    text: 'Schnorrkel (sr25519, recommended)',
-    value: 'sr25519'
-  },
-  {
-    info: 'ed25519',
-    text: 'Edwards (ed25519, alternative)',
-    value: 'ed25519'
-  },
-  {
-    info: 'ecdsa',
-    text: 'ECDSA (Non BTC/ETH compatible)',
-    value: 'ecdsa'
-  }
-]
+• `Const` **CRYPTOS**: [Option](_packages_ui_settings_src_types_.md#option)[] = [ { info: 'sr25519', text: 'Schnorrkel (sr25519, recommended)', value: 'sr25519' }, { info: 'ed25519', text: 'Edwards (ed25519, alternative)', value: 'ed25519' }, { info: 'ecdsa', text: 'ECDSA (Non BTC/ETH compatible)', value: 'ecdsa' }]
 
-*Defined in [packages/ui-settings/src/defaults/crypto.ts:6](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/crypto.ts#L6)*
+*Defined in [packages/ui-settings/src/defaults/crypto.ts:6](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/defaults/crypto.ts#L6)*
 
 ___
 
-### `Const` CRYPTOS_ETH
+### CRYPTOS\_ETH
 
-• **CRYPTOS_ETH**: *[Option](_packages_ui_settings_src_types_.md#option)[]* = [
-  {
-    info: 'ethereum',
-    text: 'ECDSA (ETH compatible)',
-    value: 'ethereum'
-  }
-]
+• `Const` **CRYPTOS\_ETH**: [Option](_packages_ui_settings_src_types_.md#option)[] = [ { info: 'ethereum', text: 'ECDSA (ETH compatible)', value: 'ethereum' }]
 
-*Defined in [packages/ui-settings/src/defaults/crypto.ts:24](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/crypto.ts#L24)*
+*Defined in [packages/ui-settings/src/defaults/crypto.ts:24](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/defaults/crypto.ts#L24)*

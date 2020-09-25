@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/react-qr/src/index"](_packages_react_qr_src_index_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/react-qr/src/index"
 
 # Module: "packages/react-qr/src/index"
 
@@ -14,30 +16,30 @@
 
 ## References
 
-###  QrDisplayAddress
+### QrDisplayAddress
 
-• **QrDisplayAddress**:
-
-___
-
-###  QrDisplayPayload
-
-• **QrDisplayPayload**:
+Re-exports: QrDisplayAddress
 
 ___
 
-###  QrNetworkSpecs
+### QrDisplayPayload
 
-• **QrNetworkSpecs**:
-
-___
-
-###  QrScanAddress
-
-• **QrScanAddress**:
+Re-exports: QrDisplayPayload
 
 ___
 
-###  QrScanSignature
+### QrNetworkSpecs
 
-• **QrScanSignature**:
+Re-exports: QrNetworkSpecs
+
+___
+
+### QrScanAddress
+
+Re-exports: QrScanAddress
+
+___
+
+### QrScanSignature
+
+Re-exports: QrScanSignature

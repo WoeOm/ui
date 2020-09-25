@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/reactnative-identicon/src/icons/Empty"](_packages_reactnative_identicon_src_icons_empty_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/reactnative-identicon/src/icons/Empty"
 
 # Module: "packages/reactnative-identicon/src/icons/Empty"
 
@@ -10,18 +12,16 @@
 
 ## Functions
 
-###  Empty
+### Empty
 
-▸ **Empty**(`__namedParameters`: object): *ReactElement‹[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)›*
+▸ **Empty**(`__namedParameters`: { size: number  }): ReactElement\<[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)>
 
-*Defined in [packages/reactnative-identicon/src/icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/0017139d/packages/reactnative-identicon/src/icons/Empty.tsx#L10)*
+*Defined in [packages/reactnative-identicon/src/icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/reactnative-identicon/src/icons/Empty.tsx#L10)*
 
-**Parameters:**
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`size` | number |
+`__namedParameters` | { size: number  } |
 
-**Returns:** *ReactElement‹[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)›*
+**Returns:** ReactElement\<[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)>

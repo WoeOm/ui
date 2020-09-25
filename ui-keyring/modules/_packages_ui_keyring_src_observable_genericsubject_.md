@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/observable/genericSubject"](_packages_ui_keyring_src_observable_genericsubject_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-keyring/src/observable/genericSubject"
 
 # Module: "packages/ui-keyring/src/observable/genericSubject"
 
@@ -10,24 +12,17 @@
 
 ## Functions
 
-###  genericSubject
+### genericSubject
 
-▸ **genericSubject**(`keyCreator`: function, `withTest`: boolean): *[AddressSubject](../interfaces/_packages_ui_keyring_src_observable_types_.addresssubject.md)*
+▸ **genericSubject**(`keyCreator`: (address: string) => string, `withTest`: boolean): [AddressSubject](../interfaces/_packages_ui_keyring_src_observable_types_.addresssubject.md)
 
-*Defined in [packages/ui-keyring/src/observable/genericSubject.ts:27](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/observable/genericSubject.ts#L27)*
+*Defined in [packages/ui-keyring/src/observable/genericSubject.ts:27](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/observable/genericSubject.ts#L27)*
 
-**Parameters:**
+#### Parameters:
 
-▪ **keyCreator**: *function*
+Name | Type | Default value |
+------ | ------ | ------ |
+`keyCreator` | (address: string) => string | - |
+`withTest` | boolean | false |
 
-▸ (`address`: string): *string*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`address` | string |
-
-▪`Default value`  **withTest**: *boolean*= false
-
-**Returns:** *[AddressSubject](../interfaces/_packages_ui_keyring_src_observable_types_.addresssubject.md)*
+**Returns:** [AddressSubject](../interfaces/_packages_ui_keyring_src_observable_types_.addresssubject.md)

@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/types"](../modules/_packages_ui_settings_src_types_.md) › [NetworkSpecsStruct](_packages_ui_settings_src_types_.networkspecsstruct.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-settings/src/types"](../modules/_packages_ui_settings_src_types_.md) / NetworkSpecsStruct
 
 # Interface: NetworkSpecsStruct
 
@@ -19,48 +21,48 @@
 
 ## Properties
 
-###  color
+### color
 
-• **color**: *string*
+•  **color**: string
 
-*Defined in [packages/ui-settings/src/types.ts:24](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L24)*
-
-___
-
-###  decimals
-
-• **decimals**: *number*
-
-*Defined in [packages/ui-settings/src/types.ts:25](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L25)*
+*Defined in [packages/ui-settings/src/types.ts:24](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L24)*
 
 ___
 
-###  genesisHash
+### decimals
 
-• **genesisHash**: *string*
+•  **decimals**: number
 
-*Defined in [packages/ui-settings/src/types.ts:26](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L26)*
-
-___
-
-###  prefix
-
-• **prefix**: *number*
-
-*Defined in [packages/ui-settings/src/types.ts:27](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L27)*
+*Defined in [packages/ui-settings/src/types.ts:25](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L25)*
 
 ___
 
-###  title
+### genesisHash
 
-• **title**: *string*
+•  **genesisHash**: string
 
-*Defined in [packages/ui-settings/src/types.ts:28](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L28)*
+*Defined in [packages/ui-settings/src/types.ts:26](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L26)*
 
 ___
 
-###  unit
+### prefix
 
-• **unit**: *string*
+•  **prefix**: number
 
-*Defined in [packages/ui-settings/src/types.ts:29](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L29)*
+*Defined in [packages/ui-settings/src/types.ts:27](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L27)*
+
+___
+
+### title
+
+•  **title**: string
+
+*Defined in [packages/ui-settings/src/types.ts:28](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L28)*
+
+___
+
+### unit
+
+•  **unit**: string
+
+*Defined in [packages/ui-settings/src/types.ts:29](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L29)*

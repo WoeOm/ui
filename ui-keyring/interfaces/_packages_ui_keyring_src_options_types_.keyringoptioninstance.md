@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/options/types"](../modules/_packages_ui_keyring_src_options_types_.md) › [KeyringOptionInstance](_packages_ui_keyring_src_options_types_.keyringoptioninstance.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/options/types"](../modules/_packages_ui_keyring_src_options_types_.md) / KeyringOptionInstance
 
 # Interface: KeyringOptionInstance
 
@@ -15,36 +17,16 @@
 
 ## Properties
 
-###  createOptionHeader
+### createOptionHeader
 
-• **createOptionHeader**: *function*
+•  **createOptionHeader**: (name: string) => [KeyringSectionOption](_packages_ui_keyring_src_options_types_.keyringsectionoption.md)
 
-*Defined in [packages/ui-keyring/src/options/types.ts:21](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/options/types.ts#L21)*
-
-#### Type declaration:
-
-▸ (`name`: string): *[KeyringSectionOption](_packages_ui_keyring_src_options_types_.keyringsectionoption.md)*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`name` | string |
+*Defined in [packages/ui-keyring/src/options/types.ts:21](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/options/types.ts#L21)*
 
 ___
 
-###  init
+### init
 
-• **init**: *function*
+•  **init**: (keyring: [KeyringStruct](_packages_ui_keyring_src_types_.keyringstruct.md)) => void
 
-*Defined in [packages/ui-keyring/src/options/types.ts:22](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/options/types.ts#L22)*
-
-#### Type declaration:
-
-▸ (`keyring`: [KeyringStruct](_packages_ui_keyring_src_types_.keyringstruct.md)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`keyring` | [KeyringStruct](_packages_ui_keyring_src_types_.keyringstruct.md) |
+*Defined in [packages/ui-keyring/src/options/types.ts:22](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/options/types.ts#L22)*

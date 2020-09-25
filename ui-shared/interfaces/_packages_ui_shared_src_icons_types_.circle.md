@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-shared/src/icons/types"](../modules/_packages_ui_shared_src_icons_types_.md) › [Circle](_packages_ui_shared_src_icons_types_.circle.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-shared/src/icons/types"](../modules/_packages_ui_shared_src_icons_types_.md) / Circle
 
 # Interface: Circle
 
@@ -17,32 +19,32 @@
 
 ## Properties
 
-###  cx
+### cx
 
-• **cx**: *number*
+•  **cx**: number
 
-*Defined in [packages/ui-shared/src/icons/types.ts:5](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/types.ts#L5)*
-
-___
-
-###  cy
-
-• **cy**: *number*
-
-*Defined in [packages/ui-shared/src/icons/types.ts:6](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/types.ts#L6)*
+*Defined in [packages/ui-shared/src/icons/types.ts:5](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/types.ts#L5)*
 
 ___
 
-###  fill
+### cy
 
-• **fill**: *string*
+•  **cy**: number
 
-*Defined in [packages/ui-shared/src/icons/types.ts:7](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/types.ts#L7)*
+*Defined in [packages/ui-shared/src/icons/types.ts:6](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/types.ts#L6)*
 
 ___
 
-###  r
+### fill
 
-• **r**: *number*
+•  **fill**: string
 
-*Defined in [packages/ui-shared/src/icons/types.ts:8](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/types.ts#L8)*
+*Defined in [packages/ui-shared/src/icons/types.ts:7](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/types.ts#L7)*
+
+___
+
+### r
+
+•  **r**: number
+
+*Defined in [packages/ui-shared/src/icons/types.ts:8](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/types.ts#L8)*

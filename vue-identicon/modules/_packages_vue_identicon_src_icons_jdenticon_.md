@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/vue-identicon/src/icons/Jdenticon"](_packages_vue_identicon_src_icons_jdenticon_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/vue-identicon/src/icons/Jdenticon"
 
 # Module: "packages/vue-identicon/src/icons/Jdenticon"
 
@@ -6,33 +8,15 @@
 
 ### Variables
 
-* [Jdenticon](_packages_vue_identicon_src_icons_jdenticon_.md#const-jdenticon)
+* [Jdenticon](_packages_vue_identicon_src_icons_jdenticon_.md#jdenticon)
 
 ## Variables
 
-### `Const` Jdenticon
+### Jdenticon
 
-• **Jdenticon**: *ExtendedVue‹Vue‹›, Data, object, unknown, Record‹"size" | "publicKey", any››* = Vue.extend({
-  created: function (): void {
-    this.createSvgHtml();
-  },
-  data: function (): Data {
-    return {
-      // eslint-disable-next-line quotes
-      svgHtml: `<svg viewBox="0 0 64 64" />`
-    };
-  },
-  methods: {
-    createSvgHtml: function (): void {
-      this.svgHtml = jdenticon.toSvg((this.publicKey as string).substr(2), this.size);
-    }
-  },
-  props: ['publicKey', 'size'],
-  // eslint-disable-next-line quotes
-  template: `<div v-html="svgHtml" />`
-})
+• `Const` **Jdenticon**: ExtendedVue\<Vue, Data, { createSvgHtml: () => void  }, unknown, Record\<\"size\" \| \"publicKey\", any>> = Vue.extend({ created: function (): void { this.createSvgHtml(); }, data: function (): Data { return { // eslint-disable-next-line quotes svgHtml: \`\<svg viewBox="0 0 64 64" />\` }; }, methods: { createSvgHtml: function (): void { this.svgHtml = jdenticon.toSvg((this.publicKey as string).substr(2), this.size); } }, props: ['publicKey', 'size'], // eslint-disable-next-line quotes template: \`\<div v-html="svgHtml" />\`})
 
-*Defined in [packages/vue-identicon/src/icons/Jdenticon.ts:15](https://github.com/polkadot-js/ui/blob/0017139d/packages/vue-identicon/src/icons/Jdenticon.ts#L15)*
+*Defined in [packages/vue-identicon/src/icons/Jdenticon.ts:15](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/vue-identicon/src/icons/Jdenticon.ts#L15)*
 
 **`name`** Jdenticon
 

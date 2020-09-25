@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) › [ContractMeta](_packages_ui_keyring_src_types_.contractmeta.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) / ContractMeta
 
 # Interface: ContractMeta
 
@@ -11,20 +13,20 @@
 ### Properties
 
 * [abi](_packages_ui_keyring_src_types_.contractmeta.md#abi)
-* [genesisHash](_packages_ui_keyring_src_types_.contractmeta.md#optional-genesishash)
+* [genesisHash](_packages_ui_keyring_src_types_.contractmeta.md#genesishash)
 
 ## Properties
 
-###  abi
+### abi
 
-• **abi**: *string*
+•  **abi**: string
 
-*Defined in [packages/ui-keyring/src/types.ts:10](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L10)*
+*Defined in [packages/ui-keyring/src/types.ts:10](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L10)*
 
 ___
 
-### `Optional` genesisHash
+### genesisHash
 
-• **genesisHash**? : *string | null*
+• `Optional` **genesisHash**: string \| null
 
-*Defined in [packages/ui-keyring/src/types.ts:11](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L11)*
+*Defined in [packages/ui-keyring/src/types.ts:11](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L11)*

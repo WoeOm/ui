@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/Settings"](../modules/_packages_ui_settings_src_settings_.md) › [Settings](_packages_ui_settings_src_settings_.settings.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-settings/src/Settings"](../modules/_packages_ui_settings_src_settings_.md) / Settings
 
 # Class: Settings
 
@@ -46,243 +48,243 @@
 
 ## Constructors
 
-###  constructor
+### constructor
 
-\+ **new Settings**(): *[Settings](_packages_ui_settings_src_settings_.settings.md)*
+\+ **new Settings**(): [Settings](_packages_ui_settings_src_settings_.settings.md)
 
-*Defined in [packages/ui-settings/src/Settings.ts:41](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L41)*
+*Defined in [packages/ui-settings/src/Settings.ts:41](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L41)*
 
-**Returns:** *[Settings](_packages_ui_settings_src_settings_.settings.md)*
+**Returns:** [Settings](_packages_ui_settings_src_settings_.settings.md)
 
 ## Accessors
 
-###  apiUrl
+### apiUrl
 
-• **get apiUrl**(): *string*
+• get **apiUrl**(): string
 
-*Defined in [packages/ui-settings/src/Settings.ts:63](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L63)*
+*Defined in [packages/ui-settings/src/Settings.ts:63](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L63)*
 
-**Returns:** *string*
-
-___
-
-###  availableCamera
-
-• **get availableCamera**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-*Defined in [packages/ui-settings/src/Settings.ts:95](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L95)*
-
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+**Returns:** string
 
 ___
 
-###  availableCryptos
+### availableCamera
 
-• **get availableCryptos**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+• get **availableCamera**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:99](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L99)*
+*Defined in [packages/ui-settings/src/Settings.ts:95](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L95)*
 
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-___
-
-###  availableCryptosEth
-
-• **get availableCryptosEth**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-*Defined in [packages/ui-settings/src/Settings.ts:103](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L103)*
-
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  availableIcons
+### availableCryptos
 
-• **get availableIcons**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+• get **availableCryptos**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:107](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L107)*
+*Defined in [packages/ui-settings/src/Settings.ts:99](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L99)*
 
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-___
-
-###  availableLedgerConn
-
-• **get availableLedgerConn**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-*Defined in [packages/ui-settings/src/Settings.ts:111](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L111)*
-
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  availableLocking
+### availableCryptosEth
 
-• **get availableLocking**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+• get **availableCryptosEth**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:115](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L115)*
+*Defined in [packages/ui-settings/src/Settings.ts:103](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L103)*
 
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-___
-
-###  availableNodes
-
-• **get availableNodes**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-*Defined in [packages/ui-settings/src/Settings.ts:119](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L119)*
-
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  availablePrefixes
+### availableIcons
 
-• **get availablePrefixes**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+• get **availableIcons**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:123](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L123)*
+*Defined in [packages/ui-settings/src/Settings.ts:107](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L107)*
 
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-___
-
-###  availableUIModes
-
-• **get availableUIModes**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-*Defined in [packages/ui-settings/src/Settings.ts:127](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L127)*
-
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  availableUIThemes
+### availableLedgerConn
 
-• **get availableUIThemes**(): *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
+• get **availableLedgerConn**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:131](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L131)*
+*Defined in [packages/ui-settings/src/Settings.ts:111](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L111)*
 
-**Returns:** *[Option](../modules/_packages_ui_settings_src_types_.md#option)[]*
-
-___
-
-###  camera
-
-• **get camera**(): *string*
-
-*Defined in [packages/ui-settings/src/Settings.ts:59](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L59)*
-
-**Returns:** *string*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  i18nLang
+### availableLocking
 
-• **get i18nLang**(): *string*
+• get **availableLocking**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:67](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L67)*
+*Defined in [packages/ui-settings/src/Settings.ts:115](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L115)*
 
-**Returns:** *string*
-
-___
-
-###  icon
-
-• **get icon**(): *string*
-
-*Defined in [packages/ui-settings/src/Settings.ts:71](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L71)*
-
-**Returns:** *string*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  ledgerConn
+### availableNodes
 
-• **get ledgerConn**(): *string*
+• get **availableNodes**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:75](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L75)*
+*Defined in [packages/ui-settings/src/Settings.ts:119](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L119)*
 
-**Returns:** *string*
-
-___
-
-###  locking
-
-• **get locking**(): *string*
-
-*Defined in [packages/ui-settings/src/Settings.ts:79](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L79)*
-
-**Returns:** *string*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  prefix
+### availablePrefixes
 
-• **get prefix**(): *number*
+• get **availablePrefixes**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:83](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L83)*
+*Defined in [packages/ui-settings/src/Settings.ts:123](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L123)*
 
-**Returns:** *number*
-
-___
-
-###  uiMode
-
-• **get uiMode**(): *string*
-
-*Defined in [packages/ui-settings/src/Settings.ts:87](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L87)*
-
-**Returns:** *string*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
 ___
 
-###  uiTheme
+### availableUIModes
 
-• **get uiTheme**(): *string*
+• get **availableUIModes**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
 
-*Defined in [packages/ui-settings/src/Settings.ts:91](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L91)*
+*Defined in [packages/ui-settings/src/Settings.ts:127](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L127)*
 
-**Returns:** *string*
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
+
+___
+
+### availableUIThemes
+
+• get **availableUIThemes**(): [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
+
+*Defined in [packages/ui-settings/src/Settings.ts:131](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L131)*
+
+**Returns:** [Option](../modules/_packages_ui_settings_src_types_.md#option)[]
+
+___
+
+### camera
+
+• get **camera**(): string
+
+*Defined in [packages/ui-settings/src/Settings.ts:59](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L59)*
+
+**Returns:** string
+
+___
+
+### i18nLang
+
+• get **i18nLang**(): string
+
+*Defined in [packages/ui-settings/src/Settings.ts:67](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L67)*
+
+**Returns:** string
+
+___
+
+### icon
+
+• get **icon**(): string
+
+*Defined in [packages/ui-settings/src/Settings.ts:71](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L71)*
+
+**Returns:** string
+
+___
+
+### ledgerConn
+
+• get **ledgerConn**(): string
+
+*Defined in [packages/ui-settings/src/Settings.ts:75](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L75)*
+
+**Returns:** string
+
+___
+
+### locking
+
+• get **locking**(): string
+
+*Defined in [packages/ui-settings/src/Settings.ts:79](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L79)*
+
+**Returns:** string
+
+___
+
+### prefix
+
+• get **prefix**(): number
+
+*Defined in [packages/ui-settings/src/Settings.ts:83](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L83)*
+
+**Returns:** number
+
+___
+
+### uiMode
+
+• get **uiMode**(): string
+
+*Defined in [packages/ui-settings/src/Settings.ts:87](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L87)*
+
+**Returns:** string
+
+___
+
+### uiTheme
+
+• get **uiTheme**(): string
+
+*Defined in [packages/ui-settings/src/Settings.ts:91](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L91)*
+
+**Returns:** string
 
 ## Methods
 
-###  get
+### get
 
-▸ **get**(): *[SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)*
+▸ **get**(): [SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)
 
-*Defined in [packages/ui-settings/src/Settings.ts:135](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L135)*
+*Defined in [packages/ui-settings/src/Settings.ts:135](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L135)*
 
-**Returns:** *[SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)*
+**Returns:** [SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)
 
 ___
 
-###  on
+### on
 
-▸ **on**(`type`: OnTypes, `cb`: ChangeCallback): *void*
+▸ **on**(`type`: OnTypes, `cb`: ChangeCallback): void
 
-*Defined in [packages/ui-settings/src/Settings.ts:166](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L166)*
+*Defined in [packages/ui-settings/src/Settings.ts:166](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L166)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `type` | OnTypes |
 `cb` | ChangeCallback |
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-###  set
+### set
 
-▸ **set**(`settings`: Partial‹[SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)›): *void*
+▸ **set**(`settings`: Partial\<[SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)>): void
 
-*Defined in [packages/ui-settings/src/Settings.ts:149](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/Settings.ts#L149)*
+*Defined in [packages/ui-settings/src/Settings.ts:149](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/Settings.ts#L149)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`settings` | Partial‹[SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)› |
+`settings` | Partial\<[SettingsStruct](../interfaces/_packages_ui_settings_src_types_.settingsstruct.md)> |
 
-**Returns:** *void*
+**Returns:** void

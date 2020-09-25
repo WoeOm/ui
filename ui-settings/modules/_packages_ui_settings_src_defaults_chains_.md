@@ -1,5 +1,5 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/defaults/chains"](_packages_ui_settings_src_defaults_chains_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-settings/src/defaults/chains"
 
 # Module: "packages/ui-settings/src/defaults/chains"
-
-

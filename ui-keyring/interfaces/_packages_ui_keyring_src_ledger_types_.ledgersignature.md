@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/ledger/types"](../modules/_packages_ui_keyring_src_ledger_types_.md) › [LedgerSignature](_packages_ui_keyring_src_ledger_types_.ledgersignature.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/ledger/types"](../modules/_packages_ui_keyring_src_ledger_types_.md) / LedgerSignature
 
 # Interface: LedgerSignature
 
@@ -14,8 +16,8 @@
 
 ## Properties
 
-###  signature
+### signature
 
-• **signature**: *string*
+•  **signature**: string
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:20](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L20)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:20](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/ledger/types.ts#L20)*

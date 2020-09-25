@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/observable/types"](../modules/_packages_ui_keyring_src_observable_types_.md) › [AddressSubject](_packages_ui_keyring_src_observable_types_.addresssubject.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/observable/types"](../modules/_packages_ui_keyring_src_observable_types_.md) / AddressSubject
 
 # Interface: AddressSubject
 
@@ -16,47 +18,24 @@
 
 ## Properties
 
-###  add
+### add
 
-• **add**: *function*
+•  **add**: (store: [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md),address: string,json: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)) => [SingleAddress](_packages_ui_keyring_src_observable_types_.singleaddress.md)
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:18](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/observable/types.ts#L18)*
-
-#### Type declaration:
-
-▸ (`store`: [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md), `address`: string, `json`: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)): *[SingleAddress](_packages_ui_keyring_src_observable_types_.singleaddress.md)*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`store` | [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md) |
-`address` | string |
-`json` | [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md) |
+*Defined in [packages/ui-keyring/src/observable/types.ts:18](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/observable/types.ts#L18)*
 
 ___
 
-###  remove
+### remove
 
-• **remove**: *function*
+•  **remove**: (store: [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md),address: string) => void
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:19](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/observable/types.ts#L19)*
-
-#### Type declaration:
-
-▸ (`store`: [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md), `address`: string): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`store` | [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md) |
-`address` | string |
+*Defined in [packages/ui-keyring/src/observable/types.ts:19](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/observable/types.ts#L19)*
 
 ___
 
-###  subject
+### subject
 
-• **subject**: *BehaviorSubject‹[SubjectInfo](_packages_ui_keyring_src_observable_types_.subjectinfo.md)›*
+•  **subject**: BehaviorSubject\<[SubjectInfo](_packages_ui_keyring_src_observable_types_.subjectinfo.md)>
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:20](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/observable/types.ts#L20)*
+*Defined in [packages/ui-keyring/src/observable/types.ts:20](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/observable/types.ts#L20)*

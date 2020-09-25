@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-shared/src/icons/types"](../modules/_packages_ui_shared_src_icons_types_.md) › [Options](_packages_ui_shared_src_icons_types_.options.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-shared/src/icons/types"](../modules/_packages_ui_shared_src_icons_types_.md) / Options
 
 # Interface: Options
 
@@ -11,20 +13,20 @@
 ### Properties
 
 * [isAlternative](_packages_ui_shared_src_icons_types_.options.md#isalternative)
-* [size](_packages_ui_shared_src_icons_types_.options.md#optional-size)
+* [size](_packages_ui_shared_src_icons_types_.options.md#size)
 
 ## Properties
 
-###  isAlternative
+### isAlternative
 
-• **isAlternative**: *boolean*
+•  **isAlternative**: boolean
 
-*Defined in [packages/ui-shared/src/icons/types.ts:12](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/types.ts#L12)*
+*Defined in [packages/ui-shared/src/icons/types.ts:12](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/types.ts#L12)*
 
 ___
 
-### `Optional` size
+### size
 
-• **size**? : *undefined | number*
+• `Optional` **size**: undefined \| number
 
-*Defined in [packages/ui-shared/src/icons/types.ts:13](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/types.ts#L13)*
+*Defined in [packages/ui-shared/src/icons/types.ts:13](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/types.ts#L13)*

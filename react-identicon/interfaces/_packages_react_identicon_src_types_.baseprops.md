@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/react-identicon/src/types"](../modules/_packages_react_identicon_src_types_.md) › [BaseProps](_packages_react_identicon_src_types_.baseprops.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/react-identicon/src/types"](../modules/_packages_react_identicon_src_types_.md) / BaseProps
 
 # Interface: BaseProps
 
@@ -14,21 +16,21 @@
 
 ### Properties
 
-* [className](_packages_react_identicon_src_types_.baseprops.md#optional-classname)
-* [style](_packages_react_identicon_src_types_.baseprops.md#optional-style)
+* [className](_packages_react_identicon_src_types_.baseprops.md#classname)
+* [style](_packages_react_identicon_src_types_.baseprops.md#style)
 
 ## Properties
 
-### `Optional` className
+### className
 
-• **className**? : *undefined | string*
+• `Optional` **className**: undefined \| string
 
-*Defined in [packages/react-identicon/src/types.ts:8](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L8)*
+*Defined in [packages/react-identicon/src/types.ts:8](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L8)*
 
 ___
 
-### `Optional` style
+### style
 
-• **style**? : *React.CSSProperties*
+• `Optional` **style**: React.CSSProperties
 
-*Defined in [packages/react-identicon/src/types.ts:9](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L9)*
+*Defined in [packages/react-identicon/src/types.ts:9](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L9)*

@@ -1,5 +1,5 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/react-qr/src/qrcode"](_packages_react_qr_src_qrcode_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/react-qr/src/qrcode"
 
 # Module: "packages/react-qr/src/qrcode"
-
-

@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-shared/src/icons/beachball/svg/rect"](_packages_ui_shared_src_icons_beachball_svg_rect_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-shared/src/icons/beachball/svg/rect"
 
 # Module: "packages/ui-shared/src/icons/beachball/svg/rect"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  rect
+### rect
 
-▸ **rect**(`size`: number): *Element*
+▸ **rect**(`size`: number): Element
 
-*Defined in [packages/ui-shared/src/icons/beachball/svg/rect.ts:6](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/beachball/svg/rect.ts#L6)*
+*Defined in [packages/ui-shared/src/icons/beachball/svg/rect.ts:6](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/beachball/svg/rect.ts#L6)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `size` | number |
 
-**Returns:** *Element*
+**Returns:** Element

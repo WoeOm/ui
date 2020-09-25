@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/defaults/endpoints"](_packages_ui_settings_src_defaults_endpoints_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-settings/src/defaults/endpoints"
 
 # Module: "packages/ui-settings/src/defaults/endpoints"
 
@@ -6,25 +8,21 @@
 
 ### Variables
 
-* [ENDPOINTS](_packages_ui_settings_src_defaults_endpoints_.md#const-endpoints)
-* [ENDPOINT_DEFAULT](_packages_ui_settings_src_defaults_endpoints_.md#const-endpoint_default)
+* [ENDPOINTS](_packages_ui_settings_src_defaults_endpoints_.md#endpoints)
+* [ENDPOINT\_DEFAULT](_packages_ui_settings_src_defaults_endpoints_.md#endpoint_default)
 
 ## Variables
 
-### `Const` ENDPOINTS
+### ENDPOINTS
 
-• **ENDPOINTS**: *[Option](_packages_ui_settings_src_types_.md#option)[]* = [{
-  info: 'local',
-  text: 'Local Node (Own, 127.0.0.1:9944)',
-  value: 'ws://127.0.0.1:9944/'
-}]
+• `Const` **ENDPOINTS**: [Option](_packages_ui_settings_src_types_.md#option)[] = [{ info: 'local', text: 'Local Node (Own, 127.0.0.1:9944)', value: 'ws://127.0.0.1:9944/'}]
 
-*Defined in [packages/ui-settings/src/defaults/endpoints.ts:6](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/endpoints.ts#L6)*
+*Defined in [packages/ui-settings/src/defaults/endpoints.ts:6](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/defaults/endpoints.ts#L6)*
 
 ___
 
-### `Const` ENDPOINT_DEFAULT
+### ENDPOINT\_DEFAULT
 
-• **ENDPOINT_DEFAULT**: *[Option](_packages_ui_settings_src_types_.md#option)* = ENDPOINTS[0]
+• `Const` **ENDPOINT\_DEFAULT**: [Option](_packages_ui_settings_src_types_.md#option) = ENDPOINTS[0]
 
-*Defined in [packages/ui-settings/src/defaults/endpoints.ts:12](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/endpoints.ts#L12)*
+*Defined in [packages/ui-settings/src/defaults/endpoints.ts:12](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/defaults/endpoints.ts#L12)*

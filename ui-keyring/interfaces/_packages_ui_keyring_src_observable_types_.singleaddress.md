@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/observable/types"](../modules/_packages_ui_keyring_src_observable_types_.md) › [SingleAddress](_packages_ui_keyring_src_observable_types_.singleaddress.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/observable/types"](../modules/_packages_ui_keyring_src_observable_types_.md) / SingleAddress
 
 # Interface: SingleAddress
 
@@ -15,16 +17,16 @@
 
 ## Properties
 
-###  json
+### json
 
-• **json**: *[KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)*
+•  **json**: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:9](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/observable/types.ts#L9)*
+*Defined in [packages/ui-keyring/src/observable/types.ts:9](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/observable/types.ts#L9)*
 
 ___
 
-###  option
+### option
 
-• **option**: *[KeyringSectionOption](_packages_ui_keyring_src_options_types_.keyringsectionoption.md)*
+•  **option**: [KeyringSectionOption](_packages_ui_keyring_src_options_types_.keyringsectionoption.md)
 
-*Defined in [packages/ui-keyring/src/observable/types.ts:10](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/observable/types.ts#L10)*
+*Defined in [packages/ui-keyring/src/observable/types.ts:10](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/observable/types.ts#L10)*

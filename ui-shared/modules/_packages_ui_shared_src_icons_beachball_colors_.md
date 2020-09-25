@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-shared/src/icons/beachball/colors"](_packages_ui_shared_src_icons_beachball_colors_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-shared/src/icons/beachball/colors"
 
 # Module: "packages/ui-shared/src/icons/beachball/colors"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  colors
+### colors
 
-▸ **colors**(`seeder`: [Seeder](_packages_ui_shared_src_icons_beachball_types_.md#seeder)): *[ColorGen](../interfaces/_packages_ui_shared_src_icons_beachball_types_.colorgen.md)*
+▸ **colors**(`seeder`: [Seeder](_packages_ui_shared_src_icons_beachball_types_.md#seeder)): [ColorGen](../interfaces/_packages_ui_shared_src_icons_beachball_types_.colorgen.md)
 
-*Defined in [packages/ui-shared/src/icons/beachball/colors.ts:13](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/beachball/colors.ts#L13)*
+*Defined in [packages/ui-shared/src/icons/beachball/colors.ts:13](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/beachball/colors.ts#L13)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `seeder` | [Seeder](_packages_ui_shared_src_icons_beachball_types_.md#seeder) |
 
-**Returns:** *[ColorGen](../interfaces/_packages_ui_shared_src_icons_beachball_types_.colorgen.md)*
+**Returns:** [ColorGen](../interfaces/_packages_ui_shared_src_icons_beachball_types_.colorgen.md)

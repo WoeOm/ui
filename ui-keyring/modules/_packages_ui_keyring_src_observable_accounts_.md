@@ -1,5 +1,5 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/observable/accounts"](_packages_ui_keyring_src_observable_accounts_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-keyring/src/observable/accounts"
 
 # Module: "packages/ui-keyring/src/observable/accounts"
-
-

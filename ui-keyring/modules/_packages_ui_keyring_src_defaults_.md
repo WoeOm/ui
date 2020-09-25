@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/defaults"](_packages_ui_keyring_src_defaults_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-keyring/src/defaults"
 
 # Module: "packages/ui-keyring/src/defaults"
 
@@ -6,84 +8,84 @@
 
 ### Variables
 
-* [accountRegex](_packages_ui_keyring_src_defaults_.md#const-accountregex)
-* [addressRegex](_packages_ui_keyring_src_defaults_.md#const-addressregex)
-* [contractRegex](_packages_ui_keyring_src_defaults_.md#const-contractregex)
+* [accountRegex](_packages_ui_keyring_src_defaults_.md#accountregex)
+* [addressRegex](_packages_ui_keyring_src_defaults_.md#addressregex)
+* [contractRegex](_packages_ui_keyring_src_defaults_.md#contractregex)
 
 ### Functions
 
-* [accountKey](_packages_ui_keyring_src_defaults_.md#const-accountkey)
-* [addressKey](_packages_ui_keyring_src_defaults_.md#const-addresskey)
-* [contractKey](_packages_ui_keyring_src_defaults_.md#const-contractkey)
+* [accountKey](_packages_ui_keyring_src_defaults_.md#accountkey)
+* [addressKey](_packages_ui_keyring_src_defaults_.md#addresskey)
+* [contractKey](_packages_ui_keyring_src_defaults_.md#contractkey)
 
 ## Variables
 
-### `Const` accountRegex
+### accountRegex
 
-• **accountRegex**: *RegExp‹›* = new RegExp(`^${ACCOUNT_PREFIX}0x[0-9a-f]*`, '')
+• `Const` **accountRegex**: RegExp = new RegExp(\`^${ACCOUNT\_PREFIX}0x[0-9a-f]*\`, '')
 
-*Defined in [packages/ui-keyring/src/defaults.ts:27](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/defaults.ts#L27)*
-
-___
-
-### `Const` addressRegex
-
-• **addressRegex**: *RegExp‹›* = new RegExp(`^${ADDRESS_PREFIX}0x[0-9a-f]*`, '')
-
-*Defined in [packages/ui-keyring/src/defaults.ts:29](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/defaults.ts#L29)*
+*Defined in [packages/ui-keyring/src/defaults.ts:27](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/defaults.ts#L27)*
 
 ___
 
-### `Const` contractRegex
+### addressRegex
 
-• **contractRegex**: *RegExp‹›* = new RegExp(`^${CONTRACT_PREFIX}0x[0-9a-f]*`, '')
+• `Const` **addressRegex**: RegExp = new RegExp(\`^${ADDRESS\_PREFIX}0x[0-9a-f]*\`, '')
 
-*Defined in [packages/ui-keyring/src/defaults.ts:31](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/defaults.ts#L31)*
+*Defined in [packages/ui-keyring/src/defaults.ts:29](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/defaults.ts#L29)*
+
+___
+
+### contractRegex
+
+• `Const` **contractRegex**: RegExp = new RegExp(\`^${CONTRACT\_PREFIX}0x[0-9a-f]*\`, '')
+
+*Defined in [packages/ui-keyring/src/defaults.ts:31](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/defaults.ts#L31)*
 
 ## Functions
 
-### `Const` accountKey
+### accountKey
 
-▸ **accountKey**(`address`: string): *string*
+▸ `Const`**accountKey**(`address`: string): string
 
-*Defined in [packages/ui-keyring/src/defaults.ts:18](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/defaults.ts#L18)*
+*Defined in [packages/ui-keyring/src/defaults.ts:18](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/defaults.ts#L18)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `address` | string |
 
-**Returns:** *string*
+**Returns:** string
 
 ___
 
-### `Const` addressKey
+### addressKey
 
-▸ **addressKey**(`address`: string): *string*
+▸ `Const`**addressKey**(`address`: string): string
 
-*Defined in [packages/ui-keyring/src/defaults.ts:21](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/defaults.ts#L21)*
+*Defined in [packages/ui-keyring/src/defaults.ts:21](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/defaults.ts#L21)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `address` | string |
 
-**Returns:** *string*
+**Returns:** string
 
 ___
 
-### `Const` contractKey
+### contractKey
 
-▸ **contractKey**(`address`: string): *string*
+▸ `Const`**contractKey**(`address`: string): string
 
-*Defined in [packages/ui-keyring/src/defaults.ts:24](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/defaults.ts#L24)*
+*Defined in [packages/ui-keyring/src/defaults.ts:24](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/defaults.ts#L24)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `address` | string |
 
-**Returns:** *string*
+**Returns:** string

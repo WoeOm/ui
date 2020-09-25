@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/observable/types"](_packages_ui_keyring_src_observable_types_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-keyring/src/observable/types"
 
 # Module: "packages/ui-keyring/src/observable/types"
 

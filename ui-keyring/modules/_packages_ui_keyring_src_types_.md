@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/types"](_packages_ui_keyring_src_types_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-keyring/src/types"
 
 # Module: "packages/ui-keyring/src/types"
 
@@ -22,16 +24,16 @@
 
 ## Type aliases
 
-###  KeyringAddressType
+### KeyringAddressType
 
-Ƭ **KeyringAddressType**: *"address" | "contract"*
+Ƭ  **KeyringAddressType**: \"address\" \| \"contract\"
 
-*Defined in [packages/ui-keyring/src/types.ts:54](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L54)*
+*Defined in [packages/ui-keyring/src/types.ts:54](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L54)*
 
 ___
 
-###  KeyringItemType
+### KeyringItemType
 
-Ƭ **KeyringItemType**: *"account" | [KeyringAddressType](_packages_ui_keyring_src_types_.md#keyringaddresstype)*
+Ƭ  **KeyringItemType**: \"account\" \| [KeyringAddressType](_packages_ui_keyring_src_types_.md#keyringaddresstype)
 
-*Defined in [packages/ui-keyring/src/types.ts:56](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L56)*
+*Defined in [packages/ui-keyring/src/types.ts:56](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L56)*

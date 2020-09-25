@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/react-identicon/src/Demo"](../modules/_packages_react_identicon_src_demo_.md) › [Demo](_packages_react_identicon_src_demo_.demo.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/react-identicon/src/Demo"](../modules/_packages_react_identicon_src_demo_.md) / Demo
 
 # Class: Demo
 
@@ -12,29 +14,29 @@
 
 ### Methods
 
-* [UNSAFE_componentWillMount](_packages_react_identicon_src_demo_.demo.md#optional-unsafe_componentwillmount)
-* [UNSAFE_componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#optional-unsafe_componentwillreceiveprops)
-* [UNSAFE_componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#optional-unsafe_componentwillupdate)
-* [componentDidCatch](_packages_react_identicon_src_demo_.demo.md#optional-componentdidcatch)
-* [componentDidMount](_packages_react_identicon_src_demo_.demo.md#optional-componentdidmount)
-* [componentDidUpdate](_packages_react_identicon_src_demo_.demo.md#optional-componentdidupdate)
-* [componentWillMount](_packages_react_identicon_src_demo_.demo.md#optional-componentwillmount)
-* [componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#optional-componentwillreceiveprops)
-* [componentWillUnmount](_packages_react_identicon_src_demo_.demo.md#optional-componentwillunmount)
-* [componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#optional-componentwillupdate)
-* [getSnapshotBeforeUpdate](_packages_react_identicon_src_demo_.demo.md#optional-getsnapshotbeforeupdate)
+* [UNSAFE\_componentWillMount](_packages_react_identicon_src_demo_.demo.md#unsafe_componentwillmount)
+* [UNSAFE\_componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#unsafe_componentwillreceiveprops)
+* [UNSAFE\_componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#unsafe_componentwillupdate)
+* [componentDidCatch](_packages_react_identicon_src_demo_.demo.md#componentdidcatch)
+* [componentDidMount](_packages_react_identicon_src_demo_.demo.md#componentdidmount)
+* [componentDidUpdate](_packages_react_identicon_src_demo_.demo.md#componentdidupdate)
+* [componentWillMount](_packages_react_identicon_src_demo_.demo.md#componentwillmount)
+* [componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#componentwillreceiveprops)
+* [componentWillUnmount](_packages_react_identicon_src_demo_.demo.md#componentwillunmount)
+* [componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#componentwillupdate)
+* [getSnapshotBeforeUpdate](_packages_react_identicon_src_demo_.demo.md#getsnapshotbeforeupdate)
 * [render](_packages_react_identicon_src_demo_.demo.md#render)
-* [shouldComponentUpdate](_packages_react_identicon_src_demo_.demo.md#optional-shouldcomponentupdate)
+* [shouldComponentUpdate](_packages_react_identicon_src_demo_.demo.md#shouldcomponentupdate)
 
 ## Methods
 
-### `Optional` UNSAFE_componentWillMount
+### UNSAFE\_componentWillMount
 
-▸ **UNSAFE_componentWillMount**(): *void*
+▸ `Optional`**UNSAFE_componentWillMount**(): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[UNSAFE_componentWillMount](_packages_react_identicon_src_demo_.demo.md#optional-unsafe_componentwillmount)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[UNSAFE_componentWillMount](_packages_react_identicon_src_demo_.demo.md#unsafe_componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:712
+*Defined in node_modules/@types/react/index.d.ts:712*
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -50,17 +52,17 @@ prevents this from being invoked.
 
 **`see`** https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#gradual-migration-path
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` UNSAFE_componentWillReceiveProps
+### UNSAFE\_componentWillReceiveProps
 
-▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly‹object›, `nextContext`: any): *void*
+▸ `Optional`**UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly\<{}>, `nextContext`: any): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[UNSAFE_componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#optional-unsafe_componentwillreceiveprops)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[UNSAFE_componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#unsafe_componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:744
+*Defined in node_modules/@types/react/index.d.ts:744*
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -79,24 +81,24 @@ prevents this from being invoked.
 
 **`see`** https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#gradual-migration-path
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹object› |
+`nextProps` | Readonly\<{}> |
 `nextContext` | any |
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` UNSAFE_componentWillUpdate
+### UNSAFE\_componentWillUpdate
 
-▸ **UNSAFE_componentWillUpdate**(`nextProps`: Readonly‹object›, `nextState`: Readonly‹object›, `nextContext`: any): *void*
+▸ `Optional`**UNSAFE_componentWillUpdate**(`nextProps`: Readonly\<{}>, `nextState`: Readonly\<{}>, `nextContext`: any): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[UNSAFE_componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#optional-unsafe_componentwillupdate)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[UNSAFE_componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#unsafe_componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:772
+*Defined in node_modules/@types/react/index.d.ts:772*
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -113,85 +115,85 @@ prevents this from being invoked.
 
 **`see`** https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#gradual-migration-path
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹object› |
-`nextState` | Readonly‹object› |
+`nextProps` | Readonly\<{}> |
+`nextState` | Readonly\<{}> |
 `nextContext` | any |
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` componentDidCatch
+### componentDidCatch
 
-▸ **componentDidCatch**(`error`: Error, `errorInfo`: ErrorInfo): *void*
+▸ `Optional`**componentDidCatch**(`error`: Error, `errorInfo`: ErrorInfo): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentDidCatch](_packages_react_identicon_src_demo_.demo.md#optional-componentdidcatch)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentDidCatch](_packages_react_identicon_src_demo_.demo.md#componentdidcatch)*
 
-Defined in node_modules/@types/react/index.d.ts:641
+*Defined in node_modules/@types/react/index.d.ts:641*
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `error` | Error |
 `errorInfo` | ErrorInfo |
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` componentDidMount
+### componentDidMount
 
-▸ **componentDidMount**(): *void*
+▸ `Optional`**componentDidMount**(): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentDidMount](_packages_react_identicon_src_demo_.demo.md#optional-componentdidmount)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentDidMount](_packages_react_identicon_src_demo_.demo.md#componentdidmount)*
 
-Defined in node_modules/@types/react/index.d.ts:620
+*Defined in node_modules/@types/react/index.d.ts:620*
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` componentDidUpdate
+### componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹object›, `prevState`: Readonly‹object›, `snapshot?`: SS): *void*
+▸ `Optional`**componentDidUpdate**(`prevProps`: Readonly\<{}>, `prevState`: Readonly\<{}>, `snapshot?`: SS): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentDidUpdate](_packages_react_identicon_src_demo_.demo.md#optional-componentdidupdate)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentDidUpdate](_packages_react_identicon_src_demo_.demo.md#componentdidupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:683
+*Defined in node_modules/@types/react/index.d.ts:683*
 
 Called immediately after updating occurs. Not called for the initial render.
 
 The snapshot is only present if getSnapshotBeforeUpdate is present and returns non-null.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`prevProps` | Readonly‹object› |
-`prevState` | Readonly‹object› |
+`prevProps` | Readonly\<{}> |
+`prevState` | Readonly\<{}> |
 `snapshot?` | SS |
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` componentWillMount
+### componentWillMount
 
-▸ **componentWillMount**(): *void*
+▸ `Optional`**componentWillMount**(): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillMount](_packages_react_identicon_src_demo_.demo.md#optional-componentwillmount)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillMount](_packages_react_identicon_src_demo_.demo.md#componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:698
+*Defined in node_modules/@types/react/index.d.ts:698*
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -205,17 +207,17 @@ prevents this from being invoked.
 
 **`see`** https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#gradual-migration-path
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` componentWillReceiveProps
+### componentWillReceiveProps
 
-▸ **componentWillReceiveProps**(`nextProps`: Readonly‹object›, `nextContext`: any): *void*
+▸ `Optional`**componentWillReceiveProps**(`nextProps`: Readonly\<{}>, `nextContext`: any): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#optional-componentwillreceiveprops)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillReceiveProps](_packages_react_identicon_src_demo_.demo.md#componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:727
+*Defined in node_modules/@types/react/index.d.ts:727*
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -232,39 +234,39 @@ prevents this from being invoked.
 
 **`see`** https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#gradual-migration-path
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹object› |
+`nextProps` | Readonly\<{}> |
 `nextContext` | any |
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` componentWillUnmount
+### componentWillUnmount
 
-▸ **componentWillUnmount**(): *void*
+▸ `Optional`**componentWillUnmount**(): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillUnmount](_packages_react_identicon_src_demo_.demo.md#optional-componentwillunmount)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillUnmount](_packages_react_identicon_src_demo_.demo.md#componentwillunmount)*
 
-Defined in node_modules/@types/react/index.d.ts:636
+*Defined in node_modules/@types/react/index.d.ts:636*
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` componentWillUpdate
+### componentWillUpdate
 
-▸ **componentWillUpdate**(`nextProps`: Readonly‹object›, `nextState`: Readonly‹object›, `nextContext`: any): *void*
+▸ `Optional`**componentWillUpdate**(`nextProps`: Readonly\<{}>, `nextState`: Readonly\<{}>, `nextContext`: any): void
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#optional-componentwillupdate)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[componentWillUpdate](_packages_react_identicon_src_demo_.demo.md#componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:757
+*Defined in node_modules/@types/react/index.d.ts:757*
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -279,25 +281,25 @@ prevents this from being invoked.
 
 **`see`** https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#gradual-migration-path
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹object› |
-`nextState` | Readonly‹object› |
+`nextProps` | Readonly\<{}> |
+`nextState` | Readonly\<{}> |
 `nextContext` | any |
 
-**Returns:** *void*
+**Returns:** void
 
 ___
 
-### `Optional` getSnapshotBeforeUpdate
+### getSnapshotBeforeUpdate
 
-▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹object›, `prevState`: Readonly‹object›): *any | null*
+▸ `Optional`**getSnapshotBeforeUpdate**(`prevProps`: Readonly\<{}>, `prevState`: Readonly\<{}>): any \| null
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[getSnapshotBeforeUpdate](_packages_react_identicon_src_demo_.demo.md#optional-getsnapshotbeforeupdate)*
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[getSnapshotBeforeUpdate](_packages_react_identicon_src_demo_.demo.md#getsnapshotbeforeupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:677
+*Defined in node_modules/@types/react/index.d.ts:677*
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -306,34 +308,34 @@ things such as scroll position before `render` causes changes to it.
 Note: the presence of getSnapshotBeforeUpdate prevents any of the deprecated
 lifecycle events from running.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`prevProps` | Readonly‹object› |
-`prevState` | Readonly‹object› |
+`prevProps` | Readonly\<{}> |
+`prevState` | Readonly\<{}> |
 
-**Returns:** *any | null*
-
-___
-
-###  render
-
-▸ **render**(): *React.ReactNode*
-
-*Defined in [packages/react-identicon/src/Demo.tsx:13](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/Demo.tsx#L13)*
-
-**Returns:** *React.ReactNode*
+**Returns:** any \| null
 
 ___
 
-### `Optional` shouldComponentUpdate
+### render
 
-▸ **shouldComponentUpdate**(`nextProps`: Readonly‹object›, `nextState`: Readonly‹object›, `nextContext`: any): *boolean*
+▸ **render**(): React.ReactNode
 
-*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[shouldComponentUpdate](_packages_react_identicon_src_demo_.demo.md#optional-shouldcomponentupdate)*
+*Defined in [packages/react-identicon/src/Demo.tsx:13](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/Demo.tsx#L13)*
 
-Defined in node_modules/@types/react/index.d.ts:631
+**Returns:** React.ReactNode
+
+___
+
+### shouldComponentUpdate
+
+▸ `Optional`**shouldComponentUpdate**(`nextProps`: Readonly\<{}>, `nextState`: Readonly\<{}>, `nextContext`: any): boolean
+
+*Inherited from [Demo](_packages_react_identicon_src_demo_.demo.md).[shouldComponentUpdate](_packages_react_identicon_src_demo_.demo.md#shouldcomponentupdate)*
+
+*Defined in node_modules/@types/react/index.d.ts:631*
 
 Called to determine whether the change in props and state should trigger a re-render.
 
@@ -344,12 +346,12 @@ props or states have changed.
 If false is returned, `Component#render`, `componentWillUpdate`
 and `componentDidUpdate` will not be called.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹object› |
-`nextState` | Readonly‹object› |
+`nextProps` | Readonly\<{}> |
+`nextState` | Readonly\<{}> |
 `nextContext` | any |
 
-**Returns:** *boolean*
+**Returns:** boolean

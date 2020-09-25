@@ -1,5 +1,5 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/react-qr/src/DisplayAddress"](_packages_react_qr_src_displayaddress_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/react-qr/src/DisplayAddress"
 
 # Module: "packages/react-qr/src/DisplayAddress"
-
-

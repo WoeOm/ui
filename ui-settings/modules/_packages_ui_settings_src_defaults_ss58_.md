@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/defaults/ss58"](_packages_ui_settings_src_defaults_ss58_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-settings/src/defaults/ss58"
 
 # Module: "packages/ui-settings/src/defaults/ss58"
 
@@ -6,59 +8,21 @@
 
 ### Variables
 
-* [PREFIXES](_packages_ui_settings_src_defaults_ss58_.md#const-prefixes)
-* [PREFIX_DEFAULT](_packages_ui_settings_src_defaults_ss58_.md#const-prefix_default)
+* [PREFIXES](_packages_ui_settings_src_defaults_ss58_.md#prefixes)
+* [PREFIX\_DEFAULT](_packages_ui_settings_src_defaults_ss58_.md#prefix_default)
 
 ## Variables
 
-### `Const` PREFIXES
+### PREFIXES
 
-• **PREFIXES**: *[Option](_packages_ui_settings_src_types_.md#option)[]* = [
-  {
-    info: 'default',
-    text: 'Default for the connected node',
-    value: -1
-  },
-  // keep as first (well, after default)
-  {
-    info: 'substrate',
-    text: 'Substrate (generic)',
-    value: 42
-  },
-  // all in ascending order based on value
-  {
-    info: 'polkadot',
-    text: 'Polkadot (live)',
-    value: 0
-  },
-  {
-    info: 'kusama',
-    text: 'Kusama (canary)',
-    value: 2
-  },
-  {
-    info: 'edgeware',
-    text: 'Edgeware (live)',
-    value: 7
-  },
-  {
-    info: 'kulupu',
-    text: 'Kulupu (live)',
-    value: 16
-  },
-  {
-    info: 'subsocial',
-    text: 'Subsocial (live)',
-    value: 28
-  }
-]
+• `Const` **PREFIXES**: [Option](_packages_ui_settings_src_types_.md#option)[] = [ { info: 'default', text: 'Default for the connected node', value: -1 }, // keep as first (well, after default) { info: 'substrate', text: 'Substrate (generic)', value: 42 }, // all in ascending order based on value { info: 'polkadot', text: 'Polkadot (live)', value: 0 }, { info: 'kusama', text: 'Kusama (canary)', value: 2 }, { info: 'edgeware', text: 'Edgeware (live)', value: 7 }, { info: 'kulupu', text: 'Kulupu (live)', value: 16 }, { info: 'subsocial', text: 'Subsocial (live)', value: 28 }]
 
-*Defined in [packages/ui-settings/src/defaults/ss58.ts:8](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/ss58.ts#L8)*
+*Defined in [packages/ui-settings/src/defaults/ss58.ts:8](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/defaults/ss58.ts#L8)*
 
 ___
 
-### `Const` PREFIX_DEFAULT
+### PREFIX\_DEFAULT
 
-• **PREFIX_DEFAULT**: *-1* = -1
+• `Const` **PREFIX\_DEFAULT**: -1 = -1
 
-*Defined in [packages/ui-settings/src/defaults/ss58.ts:6](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/ss58.ts#L6)*
+*Defined in [packages/ui-settings/src/defaults/ss58.ts:6](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/defaults/ss58.ts#L6)*

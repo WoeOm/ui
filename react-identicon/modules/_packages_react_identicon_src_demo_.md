@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/react-identicon/src/Demo"](_packages_react_identicon_src_demo_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/react-identicon/src/Demo"
 
 # Module: "packages/react-identicon/src/Demo"
 

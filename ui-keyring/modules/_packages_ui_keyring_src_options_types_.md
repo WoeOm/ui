@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/options/types"](_packages_ui_keyring_src_options_types_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-keyring/src/options/types"
 
 # Module: "packages/ui-keyring/src/options/types"
 
@@ -11,32 +13,30 @@
 
 ### Type aliases
 
-* [KeyringOption$Type](_packages_ui_keyring_src_options_types_.md#keyringoptiontype)
+* [KeyringOption$Type](_packages_ui_keyring_src_options_types_.md#keyringoption$type)
 * [KeyringOptions](_packages_ui_keyring_src_options_types_.md#keyringoptions)
 * [KeyringSectionOptions](_packages_ui_keyring_src_options_types_.md#keyringsectionoptions)
 
 ## Type aliases
 
-###  KeyringOption$Type
+### KeyringOption$Type
 
-Ƭ **KeyringOption$Type**: *keyof KeyringOptions*
+Ƭ  **KeyringOption$Type**: keyof [KeyringOptions](_packages_ui_keyring_src_options_types_.md#keyringoptions)
 
-*Defined in [packages/ui-keyring/src/options/types.ts:18](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/options/types.ts#L18)*
-
-___
-
-###  KeyringOptions
-
-Ƭ **KeyringOptions**: *object*
-
-*Defined in [packages/ui-keyring/src/options/types.ts:14](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/options/types.ts#L14)*
-
-#### Type declaration:
+*Defined in [packages/ui-keyring/src/options/types.ts:18](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/options/types.ts#L18)*
 
 ___
 
-###  KeyringSectionOptions
+### KeyringOptions
 
-Ƭ **KeyringSectionOptions**: *[KeyringSectionOption](../interfaces/_packages_ui_keyring_src_options_types_.keyringsectionoption.md)[]*
+Ƭ  **KeyringOptions**: {}
 
-*Defined in [packages/ui-keyring/src/options/types.ts:12](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/options/types.ts#L12)*
+*Defined in [packages/ui-keyring/src/options/types.ts:14](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/options/types.ts#L14)*
+
+___
+
+### KeyringSectionOptions
+
+Ƭ  **KeyringSectionOptions**: [KeyringSectionOption](../interfaces/_packages_ui_keyring_src_options_types_.keyringsectionoption.md)[]
+
+*Defined in [packages/ui-keyring/src/options/types.ts:12](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/options/types.ts#L12)*

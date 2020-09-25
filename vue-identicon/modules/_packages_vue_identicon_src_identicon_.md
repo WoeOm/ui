@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/vue-identicon/src/Identicon"](_packages_vue_identicon_src_identicon_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/vue-identicon/src/Identicon"
 
 # Module: "packages/vue-identicon/src/Identicon"
 
@@ -6,69 +8,15 @@
 
 ### Variables
 
-* [Identicon](_packages_vue_identicon_src_identicon_.md#const-identicon)
+* [Identicon](_packages_vue_identicon_src_identicon_.md#identicon)
 
 ## Variables
 
-### `Const` Identicon
+### Identicon
 
-• **Identicon**: *ExtendedVue‹Vue‹›, Data, object, unknown, Record‹"size" | "isAlternative" | "prefix" | "theme" | "value", any››* = Vue.extend({
-  components: {
-    Beachball,
-    Empty,
-    Jdenticon,
-    Polkadot
-  },
-  created: function (): void {
-    this.createData();
-  },
-  data: function (): Data {
-    return {
-      address: '',
-      iconSize: DEFAULT_SIZE,
-      publicKey: '0x',
-      type: 'empty'
-    };
-  },
-  methods: {
-    createData: function (): void {
-      this.iconSize = this.size as number || DEFAULT_SIZE;
-      this.type = this.theme as 'empty';
+• `Const` **Identicon**: ExtendedVue\<Vue, Data, { createData: () => void ; recodeAddress: () => void  }, unknown, Record\<\"size\" \| \"isAlternative\" \| \"prefix\" \| \"theme\" \| \"value\", any>> = Vue.extend({ components: { Beachball, Empty, Jdenticon, Polkadot }, created: function (): void { this.createData(); }, data: function (): Data { return { address: '', iconSize: DEFAULT\_SIZE, publicKey: '0x', type: 'empty' }; }, methods: { createData: function (): void { this.iconSize = this.size as number \|\| DEFAULT\_SIZE; this.type = this.theme as 'empty'; this.recodeAddress(); }, recodeAddress: function (): void { const { address, publicKey } = encodeAccount(this.value); this.address = address; this.publicKey = publicKey; } }, props: ['prefix', 'isAlternative', 'size', 'theme', 'value'], // FIXME These nested divs are not correct, would like a different way // here so we don't create a div wrapped for the div wrapper of the icon template: \` \<div v-if="type === 'empty' \|\| address === ''"> \<Empty :key="address" :size="iconSize" /> \</div> \<div v-else-if="type === 'beachball'"> \<Beachball :key="address" :address="address" :size="iconSize" /> \</div> \<div v-else-if="type === 'polkadot'"> \<Polkadot :key="address" :address="address" :isAlternative="isAlternative" :size="iconSize" /> \</div> \<div v-else> \<Jdenticon :key="address" :publicKey="publicKey" :size="iconSize" /> \</div> \`, watch: { value: function (): void { this.recodeAddress(); } }})
 
-      this.recodeAddress();
-    },
-    recodeAddress: function (): void {
-      const { address, publicKey } = encodeAccount(this.value);
-
-      this.address = address;
-      this.publicKey = publicKey;
-    }
-  },
-  props: ['prefix', 'isAlternative', 'size', 'theme', 'value'],
-  // FIXME These nested divs are not correct, would like a different way
-  // here so we don't create a div wrapped for the div wrapper of the icon
-  template: `
-    <div v-if="type === 'empty' || address === ''">
-      <Empty :key="address" :size="iconSize" />
-    </div>
-    <div v-else-if="type === 'beachball'">
-      <Beachball :key="address" :address="address" :size="iconSize" />
-    </div>
-    <div v-else-if="type === 'polkadot'">
-      <Polkadot :key="address" :address="address" :isAlternative="isAlternative" :size="iconSize" />
-    </div>
-    <div v-else>
-      <Jdenticon :key="address" :publicKey="publicKey" :size="iconSize" />
-    </div>
-  `,
-  watch: {
-    value: function (): void {
-      this.recodeAddress();
-    }
-  }
-})
-
-*Defined in [packages/vue-identicon/src/Identicon.ts:47](https://github.com/polkadot-js/ui/blob/0017139d/packages/vue-identicon/src/Identicon.ts#L47)*
+*Defined in [packages/vue-identicon/src/Identicon.ts:47](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/vue-identicon/src/Identicon.ts#L47)*
 
 **`name`** Identicon
 

@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/defaults/type"](_packages_ui_settings_src_defaults_type_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-settings/src/defaults/type"
 
 # Module: "packages/ui-settings/src/defaults/type"
 
@@ -6,12 +8,12 @@
 
 ### Variables
 
-* [isPolkadot](_packages_ui_settings_src_defaults_type_.md#const-ispolkadot)
+* [isPolkadot](_packages_ui_settings_src_defaults_type_.md#ispolkadot)
 
 ## Variables
 
-### `Const` isPolkadot
+### isPolkadot
 
-• **isPolkadot**: *boolean* = typeof window !== 'undefined' && window.location.host.includes('polkadot')
+• `Const` **isPolkadot**: boolean = typeof window !== 'undefined' && window.location.host.includes('polkadot')
 
-*Defined in [packages/ui-settings/src/defaults/type.ts:5](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/defaults/type.ts#L5)*
+*Defined in [packages/ui-settings/src/defaults/type.ts:5](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/defaults/type.ts#L5)*

@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/types"](_packages_ui_settings_src_types_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-settings/src/types"
 
 # Module: "packages/ui-settings/src/types"
 
@@ -15,18 +17,17 @@
 
 ## Type aliases
 
-###  Option
+### Option
 
-Ƭ **Option**: *object*
+Ƭ  **Option**: { disabled?: undefined \| false \| true ; info: string ; text: string ; value: string \| number  }
 
-*Defined in [packages/ui-settings/src/types.ts:4](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L4)*
+*Defined in [packages/ui-settings/src/types.ts:4](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L4)*
 
 #### Type declaration:
 
-* **disabled**? : *undefined | false | true*
-
-* **info**: *string*
-
-* **text**: *string*
-
-* **value**: *string | number*
+Name | Type |
+------ | ------ |
+`disabled?` | undefined \| false \| true |
+`info` | string |
+`text` | string |
+`value` | string \| number |

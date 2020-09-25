@@ -1,6 +1,6 @@
-[Polkadot JS UI libraries](README.md) › [Globals](globals.md)
+**Polkadot JS UI libraries**
 
-# Polkadot JS UI libraries
+> README / [Globals](globals.md)
 
 # @polkadot/ui-keyring
 

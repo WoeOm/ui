@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/react-identicon/src/types"](../modules/_packages_react_identicon_src_types_.md) › [Props](_packages_react_identicon_src_types_.props.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/react-identicon/src/types"](../modules/_packages_react_identicon_src_types_.md) / Props
 
 # Interface: Props
 
@@ -13,60 +15,60 @@
 ### Properties
 
 * [address](_packages_react_identicon_src_types_.props.md#address)
-* [className](_packages_react_identicon_src_types_.props.md#optional-classname)
-* [isAlternative](_packages_react_identicon_src_types_.props.md#optional-isalternative)
+* [className](_packages_react_identicon_src_types_.props.md#classname)
+* [isAlternative](_packages_react_identicon_src_types_.props.md#isalternative)
 * [publicKey](_packages_react_identicon_src_types_.props.md#publickey)
 * [size](_packages_react_identicon_src_types_.props.md#size)
-* [style](_packages_react_identicon_src_types_.props.md#optional-style)
+* [style](_packages_react_identicon_src_types_.props.md#style)
 
 ## Properties
 
-###  address
+### address
 
-• **address**: *string*
+•  **address**: string
 
-*Defined in [packages/react-identicon/src/types.ts:13](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L13)*
-
-___
-
-### `Optional` className
-
-• **className**? : *undefined | string*
-
-*Overrides [BaseProps](_packages_react_identicon_src_types_.baseprops.md).[className](_packages_react_identicon_src_types_.baseprops.md#optional-classname)*
-
-*Defined in [packages/react-identicon/src/types.ts:15](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L15)*
+*Defined in [packages/react-identicon/src/types.ts:13](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L13)*
 
 ___
 
-### `Optional` isAlternative
+### className
 
-• **isAlternative**? : *undefined | false | true*
+• `Optional` **className**: undefined \| string
 
-*Defined in [packages/react-identicon/src/types.ts:14](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L14)*
+*Overrides [BaseProps](_packages_react_identicon_src_types_.baseprops.md).[className](_packages_react_identicon_src_types_.baseprops.md#classname)*
 
-___
-
-###  publicKey
-
-• **publicKey**: *string*
-
-*Defined in [packages/react-identicon/src/types.ts:16](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L16)*
+*Defined in [packages/react-identicon/src/types.ts:15](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L15)*
 
 ___
 
-###  size
+### isAlternative
 
-• **size**: *number*
+• `Optional` **isAlternative**: undefined \| false \| true
 
-*Defined in [packages/react-identicon/src/types.ts:17](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L17)*
+*Defined in [packages/react-identicon/src/types.ts:14](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L14)*
 
 ___
 
-### `Optional` style
+### publicKey
 
-• **style**? : *React.CSSProperties*
+•  **publicKey**: string
 
-*Overrides [BaseProps](_packages_react_identicon_src_types_.baseprops.md).[style](_packages_react_identicon_src_types_.baseprops.md#optional-style)*
+*Defined in [packages/react-identicon/src/types.ts:16](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L16)*
 
-*Defined in [packages/react-identicon/src/types.ts:18](https://github.com/polkadot-js/ui/blob/0017139d/packages/react-identicon/src/types.ts#L18)*
+___
+
+### size
+
+•  **size**: number
+
+*Defined in [packages/react-identicon/src/types.ts:17](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L17)*
+
+___
+
+### style
+
+• `Optional` **style**: React.CSSProperties
+
+*Overrides [BaseProps](_packages_react_identicon_src_types_.baseprops.md).[style](_packages_react_identicon_src_types_.baseprops.md#style)*
+
+*Defined in [packages/react-identicon/src/types.ts:18](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/types.ts#L18)*

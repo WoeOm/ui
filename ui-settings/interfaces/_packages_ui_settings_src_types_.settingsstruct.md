@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-settings/src/types"](../modules/_packages_ui_settings_src_types_.md) › [SettingsStruct](_packages_ui_settings_src_types_.settingsstruct.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-settings/src/types"](../modules/_packages_ui_settings_src_types_.md) / SettingsStruct
 
 # Interface: SettingsStruct
 
@@ -26,72 +28,72 @@
 
 ## Properties
 
-###  apiUrl
+### apiUrl
 
-• **apiUrl**: *string*
+•  **apiUrl**: string
 
-*Defined in [packages/ui-settings/src/types.ts:12](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L12)*
-
-___
-
-###  camera
-
-• **camera**: *string*
-
-*Defined in [packages/ui-settings/src/types.ts:13](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L13)*
+*Defined in [packages/ui-settings/src/types.ts:12](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L12)*
 
 ___
 
-###  i18nLang
+### camera
 
-• **i18nLang**: *string*
+•  **camera**: string
 
-*Defined in [packages/ui-settings/src/types.ts:14](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L14)*
-
-___
-
-###  icon
-
-• **icon**: *string*
-
-*Defined in [packages/ui-settings/src/types.ts:15](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L15)*
+*Defined in [packages/ui-settings/src/types.ts:13](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L13)*
 
 ___
 
-###  ledgerConn
+### i18nLang
 
-• **ledgerConn**: *string*
+•  **i18nLang**: string
 
-*Defined in [packages/ui-settings/src/types.ts:16](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L16)*
-
-___
-
-###  locking
-
-• **locking**: *string*
-
-*Defined in [packages/ui-settings/src/types.ts:17](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L17)*
+*Defined in [packages/ui-settings/src/types.ts:14](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L14)*
 
 ___
 
-###  prefix
+### icon
 
-• **prefix**: *number*
+•  **icon**: string
 
-*Defined in [packages/ui-settings/src/types.ts:18](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L18)*
-
-___
-
-###  uiMode
-
-• **uiMode**: *string*
-
-*Defined in [packages/ui-settings/src/types.ts:19](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L19)*
+*Defined in [packages/ui-settings/src/types.ts:15](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L15)*
 
 ___
 
-###  uiTheme
+### ledgerConn
 
-• **uiTheme**: *string*
+•  **ledgerConn**: string
 
-*Defined in [packages/ui-settings/src/types.ts:20](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-settings/src/types.ts#L20)*
+*Defined in [packages/ui-settings/src/types.ts:16](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L16)*
+
+___
+
+### locking
+
+•  **locking**: string
+
+*Defined in [packages/ui-settings/src/types.ts:17](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L17)*
+
+___
+
+### prefix
+
+•  **prefix**: number
+
+*Defined in [packages/ui-settings/src/types.ts:18](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L18)*
+
+___
+
+### uiMode
+
+•  **uiMode**: string
+
+*Defined in [packages/ui-settings/src/types.ts:19](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L19)*
+
+___
+
+### uiTheme
+
+•  **uiTheme**: string
+
+*Defined in [packages/ui-settings/src/types.ts:20](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-settings/src/types.ts#L20)*

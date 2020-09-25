@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) › [KeyringOptions](_packages_ui_keyring_src_types_.keyringoptions.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) / KeyringOptions
 
 # Interface: KeyringOptions
 
@@ -12,61 +14,61 @@
 
 ### Properties
 
-* [filter](_packages_ui_keyring_src_types_.keyringoptions.md#optional-filter)
-* [genesisHash](_packages_ui_keyring_src_types_.keyringoptions.md#optional-genesishash)
-* [isDevelopment](_packages_ui_keyring_src_types_.keyringoptions.md#optional-isdevelopment)
-* [ss58Format](_packages_ui_keyring_src_types_.keyringoptions.md#optional-ss58format)
-* [store](_packages_ui_keyring_src_types_.keyringoptions.md#optional-store)
-* [type](_packages_ui_keyring_src_types_.keyringoptions.md#optional-type)
+* [filter](_packages_ui_keyring_src_types_.keyringoptions.md#filter)
+* [genesisHash](_packages_ui_keyring_src_types_.keyringoptions.md#genesishash)
+* [isDevelopment](_packages_ui_keyring_src_types_.keyringoptions.md#isdevelopment)
+* [ss58Format](_packages_ui_keyring_src_types_.keyringoptions.md#ss58format)
+* [store](_packages_ui_keyring_src_types_.keyringoptions.md#store)
+* [type](_packages_ui_keyring_src_types_.keyringoptions.md#type)
 
 ## Properties
 
-### `Optional` filter
+### filter
 
-• **filter**? : *undefined | function*
+• `Optional` **filter**: undefined \| (json: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)) => boolean
 
-*Defined in [packages/ui-keyring/src/types.ts:42](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L42)*
-
-___
-
-### `Optional` genesisHash
-
-• **genesisHash**? : *Hash*
-
-*Defined in [packages/ui-keyring/src/types.ts:43](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L43)*
+*Defined in [packages/ui-keyring/src/types.ts:42](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L42)*
 
 ___
 
-### `Optional` isDevelopment
+### genesisHash
 
-• **isDevelopment**? : *undefined | false | true*
+• `Optional` **genesisHash**: Hash
 
-*Defined in [packages/ui-keyring/src/types.ts:44](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L44)*
-
-___
-
-### `Optional` ss58Format
-
-• **ss58Format**? : *Prefix*
-
-*Inherited from [KeyringOptions](_packages_ui_keyring_src_types_.keyringoptions.md).[ss58Format](_packages_ui_keyring_src_types_.keyringoptions.md#optional-ss58format)*
-
-Defined in node_modules/@polkadot/keyring/types.d.ts:4
+*Defined in [packages/ui-keyring/src/types.ts:43](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L43)*
 
 ___
 
-### `Optional` store
+### isDevelopment
 
-• **store**? : *[KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md)*
+• `Optional` **isDevelopment**: undefined \| false \| true
 
-*Defined in [packages/ui-keyring/src/types.ts:45](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L45)*
+*Defined in [packages/ui-keyring/src/types.ts:44](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L44)*
 
 ___
 
-### `Optional` type
+### ss58Format
 
-• **type**? : *KeypairType*
+• `Optional` **ss58Format**: Prefix
 
-*Inherited from [KeyringOptions](_packages_ui_keyring_src_types_.keyringoptions.md).[type](_packages_ui_keyring_src_types_.keyringoptions.md#optional-type)*
+*Inherited from [KeyringOptions](_packages_ui_keyring_src_types_.keyringoptions.md).[ss58Format](_packages_ui_keyring_src_types_.keyringoptions.md#ss58format)*
 
-Defined in node_modules/@polkadot/keyring/types.d.ts:5
+*Defined in node_modules/@polkadot/keyring/types.d.ts:4*
+
+___
+
+### store
+
+• `Optional` **store**: [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md)
+
+*Defined in [packages/ui-keyring/src/types.ts:45](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L45)*
+
+___
+
+### type
+
+• `Optional` **type**: KeypairType
+
+*Inherited from [KeyringOptions](_packages_ui_keyring_src_types_.keyringoptions.md).[type](_packages_ui_keyring_src_types_.keyringoptions.md#type)*
+
+*Defined in node_modules/@polkadot/keyring/types.d.ts:5*

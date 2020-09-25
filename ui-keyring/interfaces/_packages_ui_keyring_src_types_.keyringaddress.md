@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) › [KeyringAddress](_packages_ui_keyring_src_types_.keyringaddress.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) / KeyringAddress
 
 # Interface: KeyringAddress
 
@@ -10,30 +12,30 @@
 
 ### Properties
 
-* [address](_packages_ui_keyring_src_types_.keyringaddress.md#readonly-address)
-* [meta](_packages_ui_keyring_src_types_.keyringaddress.md#readonly-meta)
-* [publicKey](_packages_ui_keyring_src_types_.keyringaddress.md#readonly-publickey)
+* [address](_packages_ui_keyring_src_types_.keyringaddress.md#address)
+* [meta](_packages_ui_keyring_src_types_.keyringaddress.md#meta)
+* [publicKey](_packages_ui_keyring_src_types_.keyringaddress.md#publickey)
 
 ## Properties
 
-### `Readonly` address
+### address
 
-• **address**: *string*
+• `Readonly` **address**: string
 
-*Defined in [packages/ui-keyring/src/types.ts:49](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L49)*
-
-___
-
-### `Readonly` meta
-
-• **meta**: *[KeyringJson$Meta](_packages_ui_keyring_src_types_.keyringjson_meta.md)*
-
-*Defined in [packages/ui-keyring/src/types.ts:50](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L50)*
+*Defined in [packages/ui-keyring/src/types.ts:49](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L49)*
 
 ___
 
-### `Readonly` publicKey
+### meta
 
-• **publicKey**: *Uint8Array*
+• `Readonly` **meta**: [KeyringJson$Meta](_packages_ui_keyring_src_types_.keyringjson_meta.md)
 
-*Defined in [packages/ui-keyring/src/types.ts:51](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L51)*
+*Defined in [packages/ui-keyring/src/types.ts:50](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L50)*
+
+___
+
+### publicKey
+
+• `Readonly` **publicKey**: Uint8Array
+
+*Defined in [packages/ui-keyring/src/types.ts:51](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L51)*

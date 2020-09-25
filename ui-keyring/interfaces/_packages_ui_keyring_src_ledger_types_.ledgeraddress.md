@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/ledger/types"](../modules/_packages_ui_keyring_src_ledger_types_.md) › [LedgerAddress](_packages_ui_keyring_src_ledger_types_.ledgeraddress.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/ledger/types"](../modules/_packages_ui_keyring_src_ledger_types_.md) / LedgerAddress
 
 # Interface: LedgerAddress
 
@@ -15,16 +17,16 @@
 
 ## Properties
 
-###  address
+### address
 
-• **address**: *string*
+•  **address**: string
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:15](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L15)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:15](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/ledger/types.ts#L15)*
 
 ___
 
-###  publicKey
+### publicKey
 
-• **publicKey**: *string*
+•  **publicKey**: string
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:16](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L16)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:16](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/ledger/types.ts#L16)*

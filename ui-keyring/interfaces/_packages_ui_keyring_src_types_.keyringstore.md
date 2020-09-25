@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) › [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/types"](../modules/_packages_ui_keyring_src_types_.md) / KeyringStore
 
 # Interface: KeyringStore
 
@@ -22,90 +24,32 @@
 
 ## Properties
 
-###  all
+### all
 
-• **all**: *function*
+•  **all**: (cb: (key: string,value: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)) => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:35](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L35)*
-
-#### Type declaration:
-
-▸ (`cb`: function): *void*
-
-**Parameters:**
-
-▪ **cb**: *function*
-
-▸ (`key`: string, `value`: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`key` | string |
-`value` | [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md) |
+*Defined in [packages/ui-keyring/src/types.ts:35](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L35)*
 
 ___
 
-###  get
+### get
 
-• **get**: *function*
+•  **get**: (key: string,cb: (value: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)) => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:36](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L36)*
-
-#### Type declaration:
-
-▸ (`key`: string, `cb`: function): *void*
-
-**Parameters:**
-
-▪ **key**: *string*
-
-▪ **cb**: *function*
-
-▸ (`value`: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`value` | [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md) |
+*Defined in [packages/ui-keyring/src/types.ts:36](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L36)*
 
 ___
 
-###  remove
+### remove
 
-• **remove**: *function*
+•  **remove**: (key: string,cb?: undefined \| () => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:37](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L37)*
-
-#### Type declaration:
-
-▸ (`key`: string, `cb?`: undefined | function): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`key` | string |
-`cb?` | undefined &#124; function |
+*Defined in [packages/ui-keyring/src/types.ts:37](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L37)*
 
 ___
 
-###  set
+### set
 
-• **set**: *function*
+•  **set**: (key: string,value: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md),cb?: undefined \| () => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:38](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/types.ts#L38)*
-
-#### Type declaration:
-
-▸ (`key`: string, `value`: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md), `cb?`: undefined | function): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`key` | string |
-`value` | [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md) |
-`cb?` | undefined &#124; function |
+*Defined in [packages/ui-keyring/src/types.ts:38](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/types.ts#L38)*

@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-shared/src/icons/beachball/types"](_packages_ui_shared_src_icons_beachball_types_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/ui-shared/src/icons/beachball/types"
 
 # Module: "packages/ui-shared/src/icons/beachball/types"
 
@@ -14,12 +16,8 @@
 
 ## Type aliases
 
-###  Seeder
+### Seeder
 
-Ƭ **Seeder**: *function*
+Ƭ  **Seeder**: () => number
 
-*Defined in [packages/ui-shared/src/icons/beachball/types.ts:4](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-shared/src/icons/beachball/types.ts#L4)*
-
-#### Type declaration:
-
-▸ (): *number*
+*Defined in [packages/ui-shared/src/icons/beachball/types.ts:4](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/beachball/types.ts#L4)*

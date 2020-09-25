@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/reactnative-identicon/src/icons/Polkadot"](_packages_reactnative_identicon_src_icons_polkadot_.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/reactnative-identicon/src/icons/Polkadot"
 
 # Module: "packages/reactnative-identicon/src/icons/Polkadot"
 
@@ -10,20 +12,16 @@
 
 ## Functions
 
-###  Identicon
+### Identicon
 
-▸ **Identicon**(`__namedParameters`: object): *ReactElement‹[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)›*
+▸ **Identicon**(`__namedParameters`: { address: string ; isAlternative: boolean = false; size: number  }): ReactElement\<[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)>
 
-*Defined in [packages/reactnative-identicon/src/icons/Polkadot.tsx:24](https://github.com/polkadot-js/ui/blob/0017139d/packages/reactnative-identicon/src/icons/Polkadot.tsx#L24)*
+*Defined in [packages/reactnative-identicon/src/icons/Polkadot.tsx:24](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/reactnative-identicon/src/icons/Polkadot.tsx#L24)*
 
-**Parameters:**
+#### Parameters:
 
-▪ **__namedParameters**: *object*
+Name | Type |
+------ | ------ |
+`__namedParameters` | { address: string ; isAlternative: boolean = false; size: number  } |
 
-Name | Type | Default |
------- | ------ | ------ |
-`address` | string | - |
-`isAlternative` | boolean | false |
-`size` | number | - |
-
-**Returns:** *ReactElement‹[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)›*
+**Returns:** ReactElement\<[Props](../interfaces/_packages_reactnative_identicon_src_types_.props.md)>

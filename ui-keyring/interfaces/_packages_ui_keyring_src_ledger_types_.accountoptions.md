@@ -1,4 +1,6 @@
-[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["packages/ui-keyring/src/ledger/types"](../modules/_packages_ui_keyring_src_ledger_types_.md) › [AccountOptions](_packages_ui_keyring_src_ledger_types_.accountoptions.md)
+**Polkadot JS UI libraries**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/ui-keyring/src/ledger/types"](../modules/_packages_ui_keyring_src_ledger_types_.md) / AccountOptions
 
 # Interface: AccountOptions
 
@@ -16,24 +18,24 @@
 
 ## Properties
 
-###  account
+### account
 
-• **account**: *number*
+•  **account**: number
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:9](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L9)*
-
-___
-
-###  addressIndex
-
-• **addressIndex**: *number*
-
-*Defined in [packages/ui-keyring/src/ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L10)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:9](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/ledger/types.ts#L9)*
 
 ___
 
-###  change
+### addressIndex
 
-• **change**: *number*
+•  **addressIndex**: number
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/0017139d/packages/ui-keyring/src/ledger/types.ts#L11)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/ledger/types.ts#L10)*
+
+___
+
+### change
+
+•  **change**: number
+
+*Defined in [packages/ui-keyring/src/ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/ledger/types.ts#L11)*
