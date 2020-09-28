@@ -20,4 +20,4 @@
 
 Ƭ  **Seeder**: () => number
 
-*Defined in [packages/ui-shared/src/icons/beachball/types.ts:4](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-shared/src/icons/beachball/types.ts#L4)*
+*Defined in [packages/ui-shared/src/icons/beachball/types.ts:4](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-shared/src/icons/beachball/types.ts#L4)*

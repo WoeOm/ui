@@ -323,7 +323,7 @@ ___
 
 ▸ **render**(): React.ReactNode
 
-*Defined in [packages/react-identicon/src/Demo.tsx:13](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/react-identicon/src/Demo.tsx#L13)*
+*Defined in [packages/react-identicon/src/Demo.tsx:13](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/react-identicon/src/Demo.tsx#L13)*
 
 **Returns:** React.ReactNode
 

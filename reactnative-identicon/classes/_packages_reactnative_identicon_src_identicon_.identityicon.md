@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): React.ReactNode
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/reactnative-identicon/src/Identicon.tsx#L64)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/reactnative-identicon/src/Identicon.tsx#L64)*
 
 **Returns:** React.ReactNode
 
@@ -368,7 +368,7 @@ ___
 
 ▸ `Static`**getDerivedStateFromProps**(`__namedParameters`: { prefix: undefined \| number = IdentityIcon.prefix; value: undefined \| null \| string \| Uint8Array  }, `prevState`: State): State \| null
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:46](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/reactnative-identicon/src/Identicon.tsx#L46)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:46](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/reactnative-identicon/src/Identicon.tsx#L46)*
 
 #### Parameters:
 
@@ -385,7 +385,7 @@ ___
 
 ▸ `Static`**setDefaultPrefix**(`prefix`: Prefix): void
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:42](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/reactnative-identicon/src/Identicon.tsx#L42)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:42](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/reactnative-identicon/src/Identicon.tsx#L42)*
 
 #### Parameters:
 
@@ -401,7 +401,7 @@ Name | Type |
 
 ▪  **state**: object
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:35](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/reactnative-identicon/src/Identicon.tsx#L35)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:35](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/reactnative-identicon/src/Identicon.tsx#L35)*
 
 #### Properties:
 

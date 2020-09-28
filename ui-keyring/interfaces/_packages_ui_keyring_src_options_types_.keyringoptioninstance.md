@@ -21,7 +21,7 @@
 
 •  **createOptionHeader**: (name: string) => [KeyringSectionOption](_packages_ui_keyring_src_options_types_.keyringsectionoption.md)
 
-*Defined in [packages/ui-keyring/src/options/types.ts:21](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/options/types.ts#L21)*
+*Defined in [packages/ui-keyring/src/options/types.ts:21](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/options/types.ts#L21)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 •  **init**: (keyring: [KeyringStruct](_packages_ui_keyring_src_types_.keyringstruct.md)) => void
 
-*Defined in [packages/ui-keyring/src/options/types.ts:22](https://github.com/polkadot-js/ui/blob/1833b1a2/packages/ui-keyring/src/options/types.ts#L22)*
+*Defined in [packages/ui-keyring/src/options/types.ts:22](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/options/types.ts#L22)*
