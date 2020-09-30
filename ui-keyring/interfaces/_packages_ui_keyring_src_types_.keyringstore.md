@@ -28,7 +28,7 @@
 
 •  **all**: (cb: (key: string,value: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)) => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:35](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L35)*
+*Defined in [packages/ui-keyring/src/types.ts:35](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L35)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 •  **get**: (key: string,cb: (value: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)) => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:36](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L36)*
+*Defined in [packages/ui-keyring/src/types.ts:36](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L36)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 •  **remove**: (key: string,cb?: undefined \| () => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:37](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L37)*
+*Defined in [packages/ui-keyring/src/types.ts:37](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L37)*
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 •  **set**: (key: string,value: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md),cb?: undefined \| () => void) => void
 
-*Defined in [packages/ui-keyring/src/types.ts:38](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L38)*
+*Defined in [packages/ui-keyring/src/types.ts:38](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L38)*

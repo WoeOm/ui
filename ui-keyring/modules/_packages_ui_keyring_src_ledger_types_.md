@@ -24,4 +24,4 @@
 
 Ƭ  **LedgerTypes**: \"hid\" \| \"u2f\" \| \"webusb\"
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:6](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/ledger/types.ts#L6)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:6](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/ledger/types.ts#L6)*

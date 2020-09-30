@@ -21,7 +21,7 @@
 
 Ƭ  **Option**: { disabled?: undefined \| false \| true ; info: string ; text: string ; value: string \| number  }
 
-*Defined in [packages/ui-settings/src/types.ts:4](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-settings/src/types.ts#L4)*
+*Defined in [packages/ui-settings/src/types.ts:4](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-settings/src/types.ts#L4)*
 
 #### Type declaration:
 

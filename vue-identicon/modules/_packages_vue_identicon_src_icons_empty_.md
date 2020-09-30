@@ -16,7 +16,7 @@
 
 • `Const` **Empty**: ExtendedVue\<Vue, unknown, unknown, unknown, Record\<\"size\", any>> = Vue.extend({ props: ['size'], template: \` \<svg :height="size" :width="size" viewBox="0 0 64 64"> \<circle cx="50%" cy="50%" fill="#eee" r="50%" /> \</svg> \`})
 
-*Defined in [packages/vue-identicon/src/icons/Empty.ts:10](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/vue-identicon/src/icons/Empty.ts#L10)*
+*Defined in [packages/vue-identicon/src/icons/Empty.ts:10](https://github.com/polkadot-js/ui/blob/fea7424a/packages/vue-identicon/src/icons/Empty.ts#L10)*
 
 **`name`** Empty
 

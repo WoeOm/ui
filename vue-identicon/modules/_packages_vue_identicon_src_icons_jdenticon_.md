@@ -16,7 +16,7 @@
 
 • `Const` **Jdenticon**: ExtendedVue\<Vue, Data, { createSvgHtml: () => void  }, unknown, Record\<\"size\" \| \"publicKey\", any>> = Vue.extend({ created: function (): void { this.createSvgHtml(); }, data: function (): Data { return { // eslint-disable-next-line quotes svgHtml: \`\<svg viewBox="0 0 64 64" />\` }; }, methods: { createSvgHtml: function (): void { this.svgHtml = jdenticon.toSvg((this.publicKey as string).substr(2), this.size); } }, props: ['publicKey', 'size'], // eslint-disable-next-line quotes template: \`\<div v-html="svgHtml" />\`})
 
-*Defined in [packages/vue-identicon/src/icons/Jdenticon.ts:15](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/vue-identicon/src/icons/Jdenticon.ts#L15)*
+*Defined in [packages/vue-identicon/src/icons/Jdenticon.ts:15](https://github.com/polkadot-js/ui/blob/fea7424a/packages/vue-identicon/src/icons/Jdenticon.ts#L15)*
 
 **`name`** Jdenticon
 

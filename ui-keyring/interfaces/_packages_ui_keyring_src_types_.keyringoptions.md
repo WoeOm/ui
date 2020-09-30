@@ -27,7 +27,7 @@
 
 • `Optional` **filter**: undefined \| (json: [KeyringJson](_packages_ui_keyring_src_types_.keyringjson.md)) => boolean
 
-*Defined in [packages/ui-keyring/src/types.ts:42](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L42)*
+*Defined in [packages/ui-keyring/src/types.ts:42](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L42)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • `Optional` **genesisHash**: Hash
 
-*Defined in [packages/ui-keyring/src/types.ts:43](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L43)*
+*Defined in [packages/ui-keyring/src/types.ts:43](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L43)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • `Optional` **isDevelopment**: undefined \| false \| true
 
-*Defined in [packages/ui-keyring/src/types.ts:44](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L44)*
+*Defined in [packages/ui-keyring/src/types.ts:44](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L44)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 • `Optional` **store**: [KeyringStore](_packages_ui_keyring_src_types_.keyringstore.md)
 
-*Defined in [packages/ui-keyring/src/types.ts:45](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L45)*
+*Defined in [packages/ui-keyring/src/types.ts:45](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L45)*
 
 ___
 

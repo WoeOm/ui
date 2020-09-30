@@ -16,7 +16,7 @@
 
 ▸ **rect**(`size`: number): Element
 
-*Defined in [packages/ui-shared/src/icons/beachball/svg/rect.ts:6](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-shared/src/icons/beachball/svg/rect.ts#L6)*
+*Defined in [packages/ui-shared/src/icons/beachball/svg/rect.ts:6](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-shared/src/icons/beachball/svg/rect.ts#L6)*
 
 #### Parameters:
 

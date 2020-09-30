@@ -34,7 +34,7 @@
 
 • `Optional` **contract**: [ContractMeta](_packages_ui_keyring_src_types_.contractmeta.md)
 
-*Defined in [packages/ui-keyring/src/types.ts:15](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L15)*
+*Defined in [packages/ui-keyring/src/types.ts:15](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L15)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • `Optional` **genesisHash**: string \| null
 
-*Defined in [packages/ui-keyring/src/types.ts:16](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L16)*
+*Defined in [packages/ui-keyring/src/types.ts:16](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L16)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • `Optional` **hardwareType**: undefined \| \"ledger\"
 
-*Defined in [packages/ui-keyring/src/types.ts:17](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L17)*
+*Defined in [packages/ui-keyring/src/types.ts:17](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L17)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • `Optional` **isHardware**: undefined \| false \| true
 
-*Defined in [packages/ui-keyring/src/types.ts:18](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L18)*
+*Defined in [packages/ui-keyring/src/types.ts:18](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L18)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • `Optional` **isInjected**: undefined \| false \| true
 
-*Defined in [packages/ui-keyring/src/types.ts:19](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L19)*
+*Defined in [packages/ui-keyring/src/types.ts:19](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L19)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • `Optional` **isRecent**: undefined \| false \| true
 
-*Defined in [packages/ui-keyring/src/types.ts:20](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L20)*
+*Defined in [packages/ui-keyring/src/types.ts:20](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L20)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • `Optional` **isTesting**: undefined \| false \| true
 
-*Defined in [packages/ui-keyring/src/types.ts:21](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L21)*
+*Defined in [packages/ui-keyring/src/types.ts:21](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L21)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • `Optional` **name**: undefined \| string
 
-*Defined in [packages/ui-keyring/src/types.ts:22](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L22)*
+*Defined in [packages/ui-keyring/src/types.ts:22](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L22)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • `Optional` **whenCreated**: undefined \| number
 
-*Defined in [packages/ui-keyring/src/types.ts:23](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L23)*
+*Defined in [packages/ui-keyring/src/types.ts:23](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L23)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • `Optional` **whenEdited**: undefined \| number
 
-*Defined in [packages/ui-keyring/src/types.ts:24](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L24)*
+*Defined in [packages/ui-keyring/src/types.ts:24](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L24)*
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 • `Optional` **whenUsed**: undefined \| number
 
-*Defined in [packages/ui-keyring/src/types.ts:25](https://github.com/polkadot-js/ui/blob/678d4dc5/packages/ui-keyring/src/types.ts#L25)*
+*Defined in [packages/ui-keyring/src/types.ts:25](https://github.com/polkadot-js/ui/blob/fea7424a/packages/ui-keyring/src/types.ts#L25)*
